@@ -1,0 +1,2381 @@
+2024-06-01 18:26:21,968 - Djokovic N. - Status: waiting
+2024-06-01 18:26:21,970 - Djokovic N. - Status: ok (already scraped)
+2024-06-01 18:26:21,970 - Sinner J. - Status: waiting
+2024-06-01 18:26:21,972 - Sinner J. - Status: ok (already scraped)
+2024-06-01 18:26:21,972 - Alcaraz C. - Status: waiting
+2024-06-01 18:26:21,974 - Alcaraz C. - Status: ok (already scraped)
+2024-06-01 18:26:21,974 - Zverev A. - Status: waiting
+2024-06-01 18:26:21,976 - Zverev A. - Status: ok (already scraped)
+2024-06-01 18:26:21,976 - Medvedev D. - Status: waiting
+2024-06-01 18:26:21,978 - Medvedev D. - Status: ok (already scraped)
+2024-06-01 18:26:21,978 - Rublev A. - Status: waiting
+2024-06-01 18:26:21,980 - Rublev A. - Status: ok (already scraped)
+2024-06-01 18:26:21,980 - Ruud C. - Status: waiting
+2024-06-01 18:26:21,981 - Ruud C. - Status: ok (already scraped)
+2024-06-01 18:26:21,981 - Hurkacz H. - Status: waiting
+2024-06-01 18:26:21,983 - Hurkacz H. - Status: ok (already scraped)
+2024-06-01 18:26:21,983 - Tsitsipas S. - Status: waiting
+2024-06-01 18:26:21,985 - Tsitsipas S. - Status: ok (already scraped)
+2024-06-01 18:26:21,985 - Dimitrov G. - Status: waiting
+2024-06-01 18:26:21,987 - Dimitrov G. - Status: ok (already scraped)
+2024-06-01 18:26:21,987 - Minaur A. - Status: waiting
+2024-06-01 18:26:21,989 - Minaur A. - Status: ok (already scraped)
+2024-06-01 18:26:21,989 - Fritz T. - Status: waiting
+2024-06-01 18:26:21,990 - Fritz T. - Status: ok (already scraped)
+2024-06-01 18:26:21,990 - Rune H. - Status: waiting
+2024-06-01 18:26:21,993 - Rune H. - Status: ok (already scraped)
+2024-06-01 18:26:21,993 - Paul T. - Status: waiting
+2024-06-01 18:26:21,995 - Paul T. - Status: ok (already scraped)
+2024-06-01 18:26:21,995 - Shelton B. - Status: waiting
+2024-06-01 18:26:21,997 - Shelton B. - Status: ok (already scraped)
+2024-06-01 18:26:21,997 - Jarry N. - Status: waiting
+2024-06-01 18:26:21,998 - Jarry N. - Status: ok (already scraped)
+2024-06-01 18:26:21,998 - Humbert U. - Status: waiting
+2024-06-01 18:26:22,000 - Humbert U. - Status: ok (already scraped)
+2024-06-01 18:26:22,000 - Khachanov K. - Status: waiting
+2024-06-01 18:26:22,003 - Khachanov K. - Status: ok (already scraped)
+2024-06-01 18:26:22,003 - Bublik A. - Status: waiting
+2024-06-01 18:26:22,004 - Bublik A. - Status: ok (already scraped)
+2024-06-01 18:26:22,004 - Baez S. - Status: waiting
+2024-06-01 18:26:22,006 - Baez S. - Status: ok (already scraped)
+2024-06-01 18:26:22,006 - Aliassime F. - Status: waiting
+2024-06-01 18:26:22,008 - Aliassime F. - Status: ok (already scraped)
+2024-06-01 18:26:22,008 - Mannarino A. - Status: waiting
+2024-06-01 18:26:22,011 - Mannarino A. - Status: ok (already scraped)
+2024-06-01 18:26:22,011 - Cerundolo F. - Status: waiting
+2024-06-01 18:26:22,012 - Cerundolo F. - Status: ok (already scraped)
+2024-06-01 18:26:22,012 - Lehecka J. - Status: waiting
+2024-06-01 18:26:22,014 - Lehecka J. - Status: ok (already scraped)
+2024-06-01 18:26:22,014 - Tabilo A. - Status: waiting
+2024-06-01 18:26:22,015 - Tabilo A. - Status: ok (already scraped)
+2024-06-01 18:26:22,015 - Tiafoe F. - Status: waiting
+2024-06-01 18:26:22,017 - Tiafoe F. - Status: ok (already scraped)
+2024-06-01 18:26:22,017 - Griekspoor T. - Status: waiting
+2024-06-01 18:26:22,019 - Griekspoor T. - Status: ok (already scraped)
+2024-06-01 18:26:22,019 - Korda S. - Status: waiting
+2024-06-01 18:26:22,022 - Korda S. - Status: ok (already scraped)
+2024-06-01 18:26:22,022 - Etcheverry T. - Status: waiting
+2024-06-01 18:26:22,023 - Etcheverry T. - Status: ok (already scraped)
+2024-06-01 18:26:22,024 - Fils A. - Status: waiting
+2024-06-01 18:26:22,025 - Fils A. - Status: ok (already scraped)
+2024-06-01 18:26:22,025 - Musetti L. - Status: waiting
+2024-06-01 18:26:22,027 - Musetti L. - Status: ok (already scraped)
+2024-06-01 18:26:22,027 - Navone M. - Status: waiting
+2024-06-01 18:26:22,028 - Navone M. - Status: ok (already scraped)
+2024-06-01 18:26:22,029 - Norrie C. - Status: waiting
+2024-06-01 18:26:22,030 - Norrie C. - Status: ok (already scraped)
+2024-06-01 18:26:22,030 - Fokina A. - Status: waiting
+2024-06-01 18:26:22,033 - Fokina A. - Status: ok (already scraped)
+2024-06-01 18:26:22,033 - Draper J. - Status: waiting
+2024-06-01 18:26:22,034 - Draper J. - Status: ok (already scraped)
+2024-06-01 18:26:22,034 - Arnaldi M. - Status: waiting
+2024-06-01 18:26:22,036 - Arnaldi M. - Status: ok (already scraped)
+2024-06-01 18:26:22,036 - Thompson J. - Status: waiting
+2024-06-01 18:26:22,038 - Thompson J. - Status: ok (already scraped)
+2024-06-01 18:26:22,038 - Monfils G. - Status: waiting
+2024-06-01 18:26:22,041 - Monfils G. - Status: ok (already scraped)
+2024-06-01 18:26:22,041 - Struff J. - Status: waiting
+2024-06-01 18:26:22,043 - Struff J. - Status: ok (already scraped)
+2024-06-01 18:26:22,043 - Safiullin R. - Status: waiting
+2024-06-01 18:26:22,044 - Safiullin R. - Status: ok (already scraped)
+2024-06-01 18:26:22,044 - Marozsan F. - Status: waiting
+2024-06-01 18:26:22,046 - Marozsan F. - Status: ok (already scraped)
+2024-06-01 18:26:22,046 - Zhang Z. - Status: waiting
+2024-06-01 18:26:22,049 - Zhang Z. - Status: ok (already scraped)
+2024-06-01 18:26:22,049 - Eubanks C. - Status: waiting
+2024-06-01 18:26:22,050 - Eubanks C. - Status: ok (already scraped)
+2024-06-01 18:26:22,050 - Machac T. - Status: waiting
+2024-06-01 18:26:22,053 - Machac T. - Status: ok (already scraped)
+2024-06-01 18:26:22,053 - Ofner S. - Status: waiting
+2024-06-01 18:26:22,054 - Ofner S. - Status: ok (already scraped)
+2024-06-01 18:26:22,054 - Borges N. - Status: waiting
+2024-06-01 18:26:22,056 - Borges N. - Status: ok (already scraped)
+2024-06-01 18:26:22,056 - Darderi L. - Status: waiting
+2024-06-01 18:26:22,060 - Darderi L. - Status: ok (already scraped)
+2024-06-01 18:26:22,060 - Giron M. - Status: waiting
+2024-06-01 18:26:22,061 - Giron M. - Status: ok (already scraped)
+2024-06-01 18:26:22,061 - Martinez P. - Status: waiting
+2024-06-01 18:26:22,063 - Martinez P. - Status: ok (already scraped)
+2024-06-01 18:26:22,063 - Sonego L. - Status: waiting
+2024-06-01 18:26:22,066 - Sonego L. - Status: ok (already scraped)
+2024-06-01 18:26:22,066 - Popyrin A. - Status: waiting
+2024-06-01 18:26:22,068 - Popyrin A. - Status: ok (already scraped)
+2024-06-01 18:26:22,068 - Djere L. - Status: waiting
+2024-06-01 18:26:22,069 - Djere L. - Status: ok (already scraped)
+2024-06-01 18:26:22,069 - Fucsovics M. - Status: waiting
+2024-06-01 18:26:22,071 - Fucsovics M. - Status: ok (already scraped)
+2024-06-01 18:26:22,071 - Acosta F. - Status: waiting
+2024-06-01 18:26:22,073 - Acosta F. - Status: ok (already scraped)
+2024-06-01 18:26:22,073 - Kecmanovic M. - Status: waiting
+2024-06-01 18:26:22,074 - Kecmanovic M. - Status: ok (already scraped)
+2024-06-01 18:26:22,074 - Cobolli F. - Status: waiting
+2024-06-01 18:26:22,076 - Cobolli F. - Status: ok (already scraped)
+2024-06-01 18:26:22,076 - Kotov P. - Status: waiting
+2024-06-01 18:26:22,077 - Kotov P. - Status: ok (already scraped)
+2024-06-01 18:26:22,079 - Wild T. - Status: waiting
+2024-06-01 18:26:22,080 - Wild T. - Status: ok (already scraped)
+2024-06-01 18:26:22,080 - Lajovic D. - Status: waiting
+2024-06-01 18:26:22,082 - Lajovic D. - Status: ok (already scraped)
+2024-06-01 18:26:22,082 - Evans D. - Status: waiting
+2024-06-01 18:26:22,084 - Evans D. - Status: ok (already scraped)
+2024-06-01 18:26:22,084 - Shevchenko A. - Status: waiting
+2024-06-01 18:26:22,086 - Shevchenko A. - Status: ok (already scraped)
+2024-06-01 18:26:22,086 - Baena R. - Status: waiting
+2024-06-01 18:26:22,087 - Baena R. - Status: ok (already scraped)
+2024-06-01 18:26:22,087 - Munar J. - Status: waiting
+2024-06-01 18:26:22,090 - Munar J. - Status: ok (already scraped)
+2024-06-01 18:26:22,090 - Michelsen A. - Status: waiting
+2024-06-01 18:26:22,091 - Michelsen A. - Status: ok (already scraped)
+2024-06-01 18:26:22,091 - Ruusuvuori E. - Status: waiting
+2024-06-01 18:26:22,093 - Ruusuvuori E. - Status: ok (already scraped)
+2024-06-01 18:26:22,093 - Koepfer D. - Status: waiting
+2024-06-01 18:26:22,095 - Koepfer D. - Status: ok (already scraped)
+2024-06-01 18:26:22,095 - Nakashima B. - Status: waiting
+2024-06-01 18:26:22,097 - Nakashima B. - Status: ok (already scraped)
+2024-06-01 18:26:22,097 - Coria F. - Status: waiting
+2024-06-01 18:26:22,098 - Coria F. - Status: ok (already scraped)
+2024-06-01 18:26:22,098 - Nardi L. - Status: waiting
+2024-06-01 18:26:22,101 - Nardi L. - Status: ok (already scraped)
+2024-06-01 18:26:22,101 - Coric B. - Status: waiting
+2024-06-01 18:26:22,103 - Coric B. - Status: ok (already scraped)
+2024-06-01 18:26:22,103 - Nishioka Y. - Status: waiting
+2024-06-01 18:26:22,104 - Nishioka Y. - Status: ok (already scraped)
+2024-06-01 18:26:22,104 - Rinderknech A. - Status: waiting
+2024-06-01 18:26:22,105 - Rinderknech A. - Status: ok (already scraped)
+2024-06-01 18:26:22,105 - Mcdonald M. - Status: waiting
+2024-06-01 18:26:22,108 - Mcdonald M. - Status: ok (already scraped)
+2024-06-01 18:26:22,108 - Murray A. - Status: waiting
+2024-06-01 18:26:22,110 - Murray A. - Status: ok (already scraped)
+2024-06-01 18:26:22,110 - Mensik J. - Status: waiting
+2024-06-01 18:26:22,112 - Mensik J. - Status: ok (already scraped)
+2024-06-01 18:26:22,112 - Cazaux A. - Status: waiting
+2024-06-01 18:26:22,113 - Cazaux A. - Status: ok (already scraped)
+2024-06-01 18:26:22,113 - Hijikata R. - Status: waiting
+2024-06-01 18:26:22,115 - Hijikata R. - Status: ok (already scraped)
+2024-06-01 18:26:22,115 - Moutet C. - Status: waiting
+2024-06-01 18:26:22,118 - Moutet C. - Status: ok (already scraped)
+2024-06-01 18:26:22,118 - Agut R. - Status: waiting
+2024-06-01 18:26:22,119 - Agut R. - Status: ok (already scraped)
+2024-06-01 18:26:22,119 - Daniel T. - Status: waiting
+2024-06-01 18:26:22,121 - Daniel T. - Status: ok (already scraped)
+2024-06-01 18:26:22,121 - Karatsev A. - Status: waiting
+2024-06-01 18:26:22,123 - Karatsev A. - Status: ok (already scraped)
+2024-06-01 18:26:22,123 - Altmaier D. - Status: waiting
+2024-06-01 18:26:22,124 - Altmaier D. - Status: ok (already scraped)
+2024-06-01 18:26:22,124 - Monteiro T. - Status: waiting
+2024-06-01 18:26:22,127 - Monteiro T. - Status: ok (already scraped)
+2024-06-01 18:26:22,127 - Hanfmann Y. - Status: waiting
+2024-06-01 18:26:22,129 - Hanfmann Y. - Status: ok (already scraped)
+2024-06-01 18:26:22,129 - Lestienne C. - Status: waiting
+2024-06-01 18:26:22,130 - Lestienne C. - Status: ok (already scraped)
+2024-06-01 18:26:22,130 - Comesana F. - Status: waiting
+2024-06-01 18:26:22,132 - Comesana F. - Status: ok (already scraped)
+2024-06-01 18:26:22,132 - Kovacevic A. - Status: waiting
+2024-06-01 18:26:22,134 - Kovacevic A. - Status: ok (already scraped)
+2024-06-01 18:26:22,134 - Shang J. - Status: waiting
+2024-06-01 18:26:22,135 - Shang J. - Status: ok (already scraped)
+2024-06-01 18:26:22,135 - Muller A. - Status: waiting
+2024-06-01 18:26:22,137 - Muller A. - Status: ok (already scraped)
+2024-06-01 18:26:22,137 - Fognini F. - Status: waiting
+2024-06-01 18:26:22,139 - Fognini F. - Status: ok (already scraped)
+2024-06-01 18:26:22,139 - Purcell M. - Status: waiting
+2024-06-01 18:26:22,141 - Purcell M. - Status: ok (already scraped)
+2024-06-01 18:26:22,141 - Vukic A. - Status: waiting
+2024-06-01 18:26:22,143 - Vukic A. - Status: ok (already scraped)
+2024-06-01 18:26:22,143 - Nagal S. - Status: waiting
+2024-06-01 18:26:22,145 - Nagal S. - Status: ok (already scraped)
+2024-06-01 18:26:22,145 - Walton A. - Status: waiting
+2024-06-01 18:26:22,147 - Walton A. - Status: ok (already scraped)
+2024-06-01 18:26:22,148 - Berrettini M. - Status: waiting
+2024-06-01 18:26:22,149 - Berrettini M. - Status: ok (already scraped)
+2024-06-01 18:26:22,149 - Wawrinka S. - Status: waiting
+2024-06-01 18:26:22,150 - Wawrinka S. - Status: ok (already scraped)
+2024-06-01 18:26:22,150 - Kokkinakis T. - Status: waiting
+2024-06-01 18:26:22,153 - Kokkinakis T. - Status: ok (already scraped)
+2024-06-01 18:26:22,153 - Marterer M. - Status: waiting
+2024-06-01 18:26:22,154 - Marterer M. - Status: ok (already scraped)
+2024-06-01 18:26:22,154 - Zandschulp B. - Status: waiting
+2024-06-01 18:26:22,156 - Zandschulp B. - Status: ok (already scraped)
+2024-06-01 18:26:22,156 - Gaston H. - Status: waiting
+2024-06-01 18:26:22,158 - Gaston H. - Status: ok (already scraped)
+2024-06-01 18:26:22,158 - Shapovalov D. - Status: waiting
+2024-06-01 18:26:22,161 - Shapovalov D. - Status: ok (already scraped)
+2024-06-01 18:26:22,161 - Galan D. - Status: waiting
+2024-06-01 18:26:22,163 - Galan D. - Status: ok (already scraped)
+2024-06-01 18:26:22,163 - Goffin D. - Status: waiting
+2024-06-01 18:26:22,165 - Goffin D. - Status: ok (already scraped)
+2024-06-01 18:26:22,165 - Halys Q. - Status: waiting
+2024-06-01 18:26:22,167 - Halys Q. - Status: ok (already scraped)
+2024-06-01 18:26:22,167 - Broady L. - Status: waiting
+2024-06-01 18:26:22,168 - Broady L. - Status: ok (already scraped)
+2024-06-01 18:26:22,168 - Pella G. - Status: waiting
+2024-06-01 18:26:22,170 - Pella G. - Status: ok (already scraped)
+2024-06-01 18:26:22,170 - Ymer M. - Status: waiting
+2024-06-01 18:26:22,172 - Ymer M. - Status: ok (already scraped)
+2024-06-01 18:26:22,173 - Nadal R. - Status: waiting
+2024-06-01 18:26:22,174 - Nadal R. - Status: ok (already scraped)
+2024-06-01 18:26:22,174 - Thiem D. - Status: waiting
+2024-06-01 18:26:22,176 - Thiem D. - Status: ok (already scraped)
+2024-06-01 18:26:22,176 - Isner J. - Status: waiting
+2024-06-01 18:26:22,177 - Isner J. - Status: ok (already scraped)
+2024-06-01 18:26:22,177 - Gasquet R. - Status: waiting
+2024-06-01 18:26:22,180 - Gasquet R. - Status: ok (already scraped)
+2024-06-01 18:26:22,180 - Raonic M. - Status: waiting
+2024-06-01 18:26:22,182 - Raonic M. - Status: ok (already scraped)
+2024-06-01 18:26:22,182 - Garin C. - Status: waiting
+2024-06-01 18:26:22,184 - Garin C. - Status: ok (already scraped)
+2024-06-01 18:26:22,184 - Mahut N. - Status: waiting
+2024-06-01 18:26:22,186 - Mahut N. - Status: ok (already scraped)
+2024-06-01 18:26:22,186 - Schwartzman D. - Status: waiting
+2024-06-01 18:26:22,188 - Schwartzman D. - Status: ok (already scraped)
+2024-06-01 18:26:22,188 - Vinolas A. - Status: waiting
+2024-06-01 18:26:22,190 - Vinolas A. - Status: ok (already scraped)
+2024-06-01 18:26:22,190 - Granollers M. - Status: waiting
+2024-06-01 18:26:22,192 - Granollers M. - Status: ok (already scraped)
+2024-06-01 18:26:22,192 - Opelka R. - Status: waiting
+2024-06-01 18:26:22,194 - Opelka R. - Status: ok (already scraped)
+2024-06-01 18:26:22,194 - Paire B. - Status: waiting
+2024-06-01 18:26:22,196 - Paire B. - Status: ok (already scraped)
+2024-06-01 18:26:22,196 - Vesely J. - Status: waiting
+2024-06-01 18:26:22,197 - Vesely J. - Status: ok (already scraped)
+2024-06-01 18:26:22,198 - Ram R. - Status: waiting
+2024-06-01 18:26:22,199 - Ram R. - Status: ok (already scraped)
+2024-06-01 18:26:22,199 - Huesler M. - Status: waiting
+2024-06-01 18:26:22,201 - Huesler M. - Status: ok (already scraped)
+2024-06-01 18:26:22,201 - Kwon S. - Status: waiting
+2024-06-01 18:26:22,203 - Kwon S. - Status: ok (already scraped)
+2024-06-01 18:26:22,203 - Chardy J. - Status: waiting
+2024-06-01 18:26:22,205 - Chardy J. - Status: ok (already scraped)
+2024-06-01 18:26:22,205 - Albot R. - Status: waiting
+2024-06-01 18:26:22,207 - Albot R. - Status: ok (already scraped)
+2024-06-01 18:26:22,207 - Sandgren T. - Status: waiting
+2024-06-01 18:26:22,208 - Sandgren T. - Status: ok (already scraped)
+2024-06-01 18:26:22,208 - Dodig I. - Status: waiting
+2024-06-01 18:26:22,210 - Dodig I. - Status: ok (already scraped)
+2024-06-01 18:26:22,210 - Gojowczyk P. - Status: waiting
+2024-06-01 18:26:22,213 - Gojowczyk P. - Status: ok (already scraped)
+2024-06-01 18:26:22,213 - Ivashka I. - Status: waiting
+2024-06-01 18:26:22,214 - Ivashka I. - Status: ok (already scraped)
+2024-06-01 18:26:22,214 - Zeballos H. - Status: waiting
+2024-06-01 18:26:22,216 - Zeballos H. - Status: ok (already scraped)
+2024-06-01 18:26:22,216 - Chung H. - Status: waiting
+2024-06-01 18:26:22,219 - Chung H. - Status: ok (already scraped)
+2024-06-01 18:26:22,219 - Kukushkin M. - Status: waiting
+2024-06-01 18:26:22,221 - Kukushkin M. - Status: ok (already scraped)
+2024-06-01 18:26:22,221 - Cerundolo J. - Status: waiting
+2024-06-01 18:26:22,222 - Cerundolo J. - Status: ok (already scraped)
+2024-06-01 18:26:22,222 - Golubev A. - Status: waiting
+2024-06-01 18:26:22,224 - Golubev A. - Status: ok (already scraped)
+2024-06-01 18:26:22,224 - Cressy M. - Status: waiting
+2024-06-01 18:26:22,226 - Cressy M. - Status: ok (already scraped)
+2024-06-01 18:26:22,226 - Jong J. - Status: waiting
+2024-06-01 18:26:22,228 - Jong J. - Status: ok (already scraped)
+2024-06-01 18:26:22,228 - Zeppieri G. - Status: waiting
+2024-06-01 18:26:22,230 - Zeppieri G. - Status: ok (already scraped)
+2024-06-01 18:26:22,230 - Ymer E. - Status: waiting
+2024-06-01 18:26:22,231 - Ymer E. - Status: ok (already scraped)
+2024-06-01 18:26:22,231 - Watanuki Y. - Status: waiting
+2024-06-01 18:26:22,234 - Watanuki Y. - Status: ok (already scraped)
+2024-06-01 18:26:22,234 - Vavassori A. - Status: waiting
+2024-06-01 18:26:22,235 - Vavassori A. - Status: ok (already scraped)
+2024-06-01 18:26:22,236 - Varillas J. - Status: waiting
+2024-06-01 18:26:22,237 - Varillas J. - Status: ok (already scraped)
+2024-06-01 18:26:22,237 - Rodionov J. - Status: waiting
+2024-06-01 18:26:22,239 - Rodionov J. - Status: ok (already scraped)
+2024-06-01 18:26:22,239 - Ritschard A. - Status: waiting
+2024-06-01 18:26:22,241 - Ritschard A. - Status: ok (already scraped)
+2024-06-01 18:26:22,241 - Agamenone F. - Status: waiting
+2024-06-01 18:26:22,242 - Agamenone F. - Status: ok (already scraped)
+2024-06-01 18:26:22,242 - Ajdukovic D. - Status: waiting
+2024-06-01 18:26:22,245 - Ajdukovic D. - Status: ok (already scraped)
+2024-06-01 18:26:22,245 - Assche L. - Status: waiting
+2024-06-01 18:26:22,247 - Assche L. - Status: ok (already scraped)
+2024-06-01 18:26:22,247 - Bergs Z. - Status: waiting
+2024-06-01 18:26:22,249 - Bergs Z. - Status: ok (already scraped)
+2024-06-01 18:26:22,249 - Duckworth J. - Status: waiting
+2024-06-01 18:26:22,251 - Duckworth J. - Status: ok (already scraped)
+2024-06-01 18:26:22,251 - Cachin P. - Status: waiting
+2024-06-01 18:26:22,253 - Cachin P. - Status: ok (already scraped)
+2024-06-01 18:26:22,253 - Tirante T. - Status: waiting
+2024-06-01 18:26:22,255 - Tirante T. - Status: ok (already scraped)
+2024-06-01 18:26:22,255 - Carabelli C. - Status: waiting
+2024-06-01 18:26:22,256 - Carabelli C. - Status: ok (already scraped)
+2024-06-01 18:26:22,256 - Barrere G. - Status: waiting
+2024-06-01 18:26:22,258 - Barrere G. - Status: ok (already scraped)
+2024-06-01 18:26:22,258 - Mmoh M. - Status: waiting
+2024-06-01 18:26:22,260 - Mmoh M. - Status: ok (already scraped)
+2024-06-01 18:26:22,260 - Vacherot V. - Status: waiting
+2024-06-01 18:26:22,262 - Vacherot V. - Status: ok (already scraped)
+2024-06-01 18:26:22,262 - Klein L. - Status: waiting
+2024-06-01 18:26:22,263 - Klein L. - Status: ok (already scraped)
+2024-06-01 18:26:22,263 - Bagnis F. - Status: waiting
+2024-06-01 18:26:22,265 - Bagnis F. - Status: ok (already scraped)
+2024-06-01 18:26:22,265 - Atmane T. - Status: waiting
+2024-06-01 18:26:22,267 - Atmane T. - Status: ok (already scraped)
+2024-06-01 18:26:22,267 - Mayot H. - Status: waiting
+2024-06-01 18:26:22,269 - Mayot H. - Status: ok (already scraped)
+2024-06-01 18:26:22,269 - Svajda Z. - Status: waiting
+2024-06-01 18:26:22,270 - Svajda Z. - Status: ok (already scraped)
+2024-06-01 18:26:22,270 - Napolitano S. - Status: waiting
+2024-06-01 18:26:22,273 - Napolitano S. - Status: ok (already scraped)
+2024-06-01 18:26:22,273 - Nava E. - Status: waiting
+2024-06-01 18:26:22,274 - Nava E. - Status: ok (already scraped)
+2024-06-01 18:26:22,274 - Kopriva V. - Status: waiting
+2024-06-01 18:26:22,276 - Kopriva V. - Status: ok (already scraped)
+2024-06-01 18:26:22,276 - Dzumhur D. - Status: waiting
+2024-06-01 18:26:22,277 - Dzumhur D. - Status: ok (already scraped)
+2024-06-01 18:26:22,277 - Alboran N. - Status: waiting
+2024-06-01 18:26:22,280 - Alboran N. - Status: ok (already scraped)
+2024-06-01 18:26:22,280 - Harris L. - Status: waiting
+2024-06-01 18:26:22,282 - Harris L. - Status: ok (already scraped)
+2024-06-01 18:26:22,282 - Droguet T. - Status: waiting
+2024-06-01 18:26:22,283 - Droguet T. - Status: ok (already scraped)
+2024-06-01 18:26:22,283 - Passaro F. - Status: waiting
+2024-06-01 18:26:22,285 - Passaro F. - Status: ok (already scraped)
+2024-06-01 18:26:22,285 - Medjedovic H. - Status: waiting
+2024-06-01 18:26:22,286 - Medjedovic H. - Status: ok (already scraped)
+2024-06-01 18:26:22,286 - Alves F. - Status: waiting
+2024-06-01 18:26:22,289 - Alves F. - Status: ok (already scraped)
+2024-06-01 18:26:22,289 - Gigante M. - Status: waiting
+2024-06-01 18:26:22,291 - Gigante M. - Status: ok (already scraped)
+2024-06-01 18:26:22,291 - Herbert P. - Status: waiting
+2024-06-01 18:26:22,292 - Herbert P. - Status: ok (already scraped)
+2024-06-01 18:26:22,292 - Stricker D. - Status: waiting
+2024-06-01 18:26:22,294 - Stricker D. - Status: ok (already scraped)
+2024-06-01 18:26:22,294 - Burruchaga R. - Status: waiting
+2024-06-01 18:26:22,295 - Burruchaga R. - Status: ok (already scraped)
+2024-06-01 18:26:22,295 - Kovalik J. - Status: waiting
+2024-06-01 18:26:22,298 - Kovalik J. - Status: ok (already scraped)
+2024-06-01 18:26:22,298 - Ruiz P. - Status: waiting
+2024-06-01 18:26:22,299 - Ruiz P. - Status: ok (already scraped)
+2024-06-01 18:26:22,299 - Hassan B. - Status: waiting
+2024-06-01 18:26:22,300 - Hassan B. - Status: ok (already scraped)
+2024-06-01 18:26:22,302 - Kypson P. - Status: waiting
+2024-06-01 18:26:22,303 - Kypson P. - Status: ok (already scraped)
+2024-06-01 18:26:22,303 - Riedi L. - Status: waiting
+2024-06-01 18:26:22,305 - Riedi L. - Status: ok (already scraped)
+2024-06-01 18:26:22,305 - Galarneau A. - Status: waiting
+2024-06-01 18:26:22,306 - Galarneau A. - Status: ok (already scraped)
+2024-06-01 18:26:22,306 - Piros Z. - Status: waiting
+2024-06-01 18:26:22,309 - Piros Z. - Status: ok (already scraped)
+2024-06-01 18:26:22,309 - Virtanen O. - Status: waiting
+2024-06-01 18:26:22,310 - Virtanen O. - Status: ok (already scraped)
+2024-06-01 18:26:22,310 - Vera T. - Status: waiting
+2024-06-01 18:26:22,312 - Vera T. - Status: ok (already scraped)
+2024-06-01 18:26:22,312 - Gojo B. - Status: waiting
+2024-06-01 18:26:22,313 - Gojo B. - Status: ok (already scraped)
+2024-06-01 18:26:22,313 - Pellegrino A. - Status: waiting
+2024-06-01 18:26:22,315 - Pellegrino A. - Status: ok (already scraped)
+2024-06-01 18:26:22,315 - Blanchet U. - Status: waiting
+2024-06-01 18:26:22,316 - Blanchet U. - Status: ok (already scraped)
+2024-06-01 18:26:22,316 - Kudla D. - Status: waiting
+2024-06-01 18:26:22,319 - Kudla D. - Status: ok (already scraped)
+2024-06-01 18:26:22,319 - Mochizuki S. - Status: waiting
+2024-06-01 18:26:22,321 - Mochizuki S. - Status: ok (already scraped)
+2024-06-01 18:26:22,321 - Molleker R. - Status: waiting
+2024-06-01 18:26:22,322 - Molleker R. - Status: ok (already scraped)
+2024-06-01 18:26:22,322 - Batalla O. - Status: waiting
+2024-06-01 18:26:22,324 - Batalla O. - Status: ok (already scraped)
+2024-06-01 18:26:22,324 - Pouille L. - Status: waiting
+2024-06-01 18:26:22,326 - Pouille L. - Status: ok (already scraped)
+2024-06-01 18:26:22,326 - Diallo G. - Status: waiting
+2024-06-01 18:26:22,327 - Diallo G. - Status: ok (already scraped)
+2024-06-01 18:26:22,328 - Yevseyev D. - Status: waiting
+2024-06-01 18:26:22,330 - Yevseyev D. - Status: ok (already scraped)
+2024-06-01 18:26:22,330 - Dellien H. - Status: waiting
+2024-06-01 18:26:22,331 - Dellien H. - Status: ok (already scraped)
+2024-06-01 18:26:22,331 - Trungelliti M. - Status: waiting
+2024-06-01 18:26:22,333 - Trungelliti M. - Status: ok (already scraped)
+2024-06-01 18:26:22,333 - Zhukayev B. - Status: waiting
+2024-06-01 18:26:22,335 - Zhukayev B. - Status: ok (already scraped)
+2024-06-01 18:26:22,335 - Bonzi B. - Status: waiting
+2024-06-01 18:26:22,337 - Bonzi B. - Status: ok (already scraped)
+2024-06-01 18:26:22,337 - Bellucci M. - Status: waiting
+2024-06-01 18:26:22,338 - Bellucci M. - Status: ok (already scraped)
+2024-06-01 18:26:22,338 - Heide G. - Status: waiting
+2024-06-01 18:26:22,341 - Heide G. - Status: ok (already scraped)
+2024-06-01 18:26:22,341 - Martineau M. - Status: waiting
+2024-06-01 18:26:22,342 - Martineau M. - Status: ok (already scraped)
+2024-06-01 18:26:22,342 - Damm M. - Status: waiting
+2024-06-01 18:26:22,343 - Damm M. - Status: ok (already scraped)
+2024-06-01 18:26:22,343 - Choinski J. - Status: waiting
+2024-06-01 18:26:22,345 - Choinski J. - Status: ok (already scraped)
+2024-06-01 18:26:22,345 - Wong C. - Status: waiting
+2024-06-01 18:26:22,347 - Wong C. - Status: ok (already scraped)
+2024-06-01 18:26:22,347 - Faria J. - Status: waiting
+2024-06-01 18:26:22,348 - Faria J. - Status: ok (already scraped)
+2024-06-01 18:26:22,348 - Grenier H. - Status: waiting
+2024-06-01 18:26:22,351 - Grenier H. - Status: ok (already scraped)
+2024-06-01 18:26:22,351 - Schoolkate T. - Status: waiting
+2024-06-01 18:26:22,352 - Schoolkate T. - Status: ok (already scraped)
+2024-06-01 18:26:22,352 - Olivieri G. - Status: waiting
+2024-06-01 18:26:22,354 - Olivieri G. - Status: ok (already scraped)
+2024-06-01 18:26:22,354 - Bu Y. - Status: waiting
+2024-06-01 18:26:22,356 - Bu Y. - Status: ok (already scraped)
+2024-06-01 18:26:22,356 - Canas A. - Status: waiting
+2024-06-01 18:26:22,357 - Canas A. - Status: ok (already scraped)
+2024-06-01 18:26:22,357 - Hong S. - Status: waiting
+2024-06-01 18:26:22,360 - Hong S. - Status: ok (already scraped)
+2024-06-01 18:26:22,360 - Svrcina D. - Status: waiting
+2024-06-01 18:26:22,362 - Svrcina D. - Status: ok (already scraped)
+2024-06-01 18:26:22,362 - Hardt N. - Status: waiting
+2024-06-01 18:26:22,363 - Hardt N. - Status: ok (already scraped)
+2024-06-01 18:26:22,363 - Sachko V. - Status: waiting
+2024-06-01 18:26:22,364 - Sachko V. - Status: ok (already scraped)
+2024-06-01 18:26:22,364 - Loore J. - Status: waiting
+2024-06-01 18:26:22,366 - Loore J. - Status: ok (already scraped)
+2024-06-01 18:26:22,366 - Skatov T. - Status: waiting
+2024-06-01 18:26:22,367 - Skatov T. - Status: ok (already scraped)
+2024-06-01 18:26:22,369 - Polmans M. - Status: waiting
+2024-06-01 18:26:22,370 - Polmans M. - Status: ok (already scraped)
+2024-06-01 18:26:22,370 - Harris B. - Status: waiting
+2024-06-01 18:26:22,372 - Harris B. - Status: ok (already scraped)
+2024-06-01 18:26:22,372 - Travaglia S. - Status: waiting
+2024-06-01 18:26:22,373 - Travaglia S. - Status: ok (already scraped)
+2024-06-01 18:26:22,373 - Rocha H. - Status: waiting
+2024-06-01 18:26:22,375 - Rocha H. - Status: ok (already scraped)
+2024-06-01 18:26:22,375 - Prizmic D. - Status: waiting
+2024-06-01 18:26:22,377 - Prizmic D. - Status: ok (already scraped)
+2024-06-01 18:26:22,377 - Maestrelli F. - Status: waiting
+2024-06-01 18:26:22,379 - Maestrelli F. - Status: ok (already scraped)
+2024-06-01 18:26:22,379 - Jasika O. - Status: waiting
+2024-06-01 18:26:22,380 - Jasika O. - Status: ok (already scraped)
+2024-06-01 18:26:22,380 - Novak D. - Status: waiting
+2024-06-01 18:26:22,383 - Novak D. - Status: ok (already scraped)
+2024-06-01 18:26:22,383 - Couacaud E. - Status: waiting
+2024-06-01 18:26:22,384 - Couacaud E. - Status: ok (already scraped)
+2024-06-01 18:26:22,384 - Kubler J. - Status: waiting
+2024-06-01 18:26:22,386 - Kubler J. - Status: ok (already scraped)
+2024-06-01 18:26:22,386 - Uchiyama Y. - Status: waiting
+2024-06-01 18:26:22,388 - Uchiyama Y. - Status: ok (already scraped)
+2024-06-01 18:26:22,388 - Tu L. - Status: waiting
+2024-06-01 18:26:22,390 - Tu L. - Status: ok (already scraped)
+2024-06-01 18:26:22,390 - Molcan A. - Status: waiting
+2024-06-01 18:26:22,392 - Molcan A. - Status: ok (already scraped)
+2024-06-01 18:26:22,392 - Lajal M. - Status: waiting
+2024-06-01 18:26:22,393 - Lajal M. - Status: ok (already scraped)
+2024-06-01 18:26:22,393 - Hemery C. - Status: waiting
+2024-06-01 18:26:22,395 - Hemery C. - Status: ok (already scraped)
+2024-06-01 18:26:22,395 - Peniston R. - Status: waiting
+2024-06-01 18:26:22,396 - Peniston R. - Status: ok (already scraped)
+2024-06-01 18:26:22,397 - Marchenko I. - Status: waiting
+2024-06-01 18:26:22,398 - Marchenko I. - Status: ok (already scraped)
+2024-06-01 18:26:22,398 - Janvier M. - Status: waiting
+2024-06-01 18:26:22,400 - Janvier M. - Status: ok (already scraped)
+2024-06-01 18:26:22,400 - Miralles B. - Status: waiting
+2024-06-01 18:26:22,402 - Miralles B. - Status: ok (already scraped)
+2024-06-01 18:26:22,402 - Fatic N. - Status: waiting
+2024-06-01 18:26:22,404 - Fatic N. - Status: ok (already scraped)
+2024-06-01 18:26:22,404 - Squire H. - Status: waiting
+2024-06-01 18:26:22,405 - Squire H. - Status: ok (already scraped)
+2024-06-01 18:26:22,405 - Dellien M. - Status: waiting
+2024-06-01 18:26:22,407 - Dellien M. - Status: ok (already scraped)
+2024-06-01 18:26:22,407 - Shimabukuro S. - Status: waiting
+2024-06-01 18:26:22,409 - Shimabukuro S. - Status: ok (already scraped)
+2024-06-01 18:26:22,409 - Guinard M. - Status: waiting
+2024-06-01 18:26:22,410 - Guinard M. - Status: ok (already scraped)
+2024-06-01 18:26:22,410 - Ficovich J. - Status: waiting
+2024-06-01 18:26:22,413 - Ficovich J. - Status: ok (already scraped)
+2024-06-01 18:26:22,413 - Neumayer L. - Status: waiting
+2024-06-01 18:26:22,415 - Neumayer L. - Status: ok (already scraped)
+2024-06-01 18:26:22,415 - Hsu Y. - Status: waiting
+2024-06-01 18:26:22,416 - Hsu Y. - Status: ok (already scraped)
+2024-06-01 18:26:22,416 - Fonseca J. - Status: waiting
+2024-06-01 18:26:22,418 - Fonseca J. - Status: ok (already scraped)
+2024-06-01 18:26:22,418 - Escoffier A. - Status: waiting
+2024-06-01 18:26:22,420 - Escoffier A. - Status: ok (already scraped)
+2024-06-01 18:26:22,420 - Dougaz A. - Status: waiting
+2024-06-01 18:26:22,422 - Dougaz A. - Status: ok (already scraped)
+2024-06-01 18:26:22,422 - Andreev A. - Status: waiting
+2024-06-01 18:26:22,424 - Andreev A. - Status: ok (already scraped)
+2024-06-01 18:26:22,424 - Rincon D. - Status: waiting
+2024-06-01 18:26:22,425 - Rincon D. - Status: ok (already scraped)
+2024-06-01 18:26:22,425 - Sweeny D. - Status: waiting
+2024-06-01 18:26:22,427 - Sweeny D. - Status: ok (already scraped)
+2024-06-01 18:26:22,427 - Sekulic P. - Status: waiting
+2024-06-01 18:26:22,429 - Sekulic P. - Status: ok (already scraped)
+2024-06-01 18:26:22,429 - Bolt A. - Status: waiting
+2024-06-01 18:26:22,431 - Bolt A. - Status: ok (already scraped)
+2024-06-01 18:26:22,431 - Brouwer G. - Status: waiting
+2024-06-01 18:26:22,432 - Brouwer G. - Status: ok (already scraped)
+2024-06-01 18:26:22,432 - Misolic F. - Status: waiting
+2024-06-01 18:26:22,434 - Misolic F. - Status: ok (already scraped)
+2024-06-01 18:26:22,434 - Popko D. - Status: waiting
+2024-06-01 18:26:22,435 - Popko D. - Status: ok (already scraped)
+2024-06-01 18:26:22,435 - Taverna S. - Status: waiting
+2024-06-01 18:26:22,437 - Taverna S. - Status: ok (already scraped)
+2024-06-01 18:26:22,437 - Fery A. - Status: waiting
+2024-06-01 18:26:22,439 - Fery A. - Status: ok (already scraped)
+2024-06-01 18:26:22,439 - Tomic B. - Status: waiting
+2024-06-01 18:26:22,440 - Tomic B. - Status: ok (already scraped)
+2024-06-01 18:26:22,440 - Shelbayh A. - Status: waiting
+2024-06-01 18:26:22,443 - Shelbayh A. - Status: ok (already scraped)
+2024-06-01 18:26:22,443 - Kuzmanov D. - Status: waiting
+2024-06-01 18:26:22,445 - Kuzmanov D. - Status: ok (already scraped)
+2024-06-01 18:26:22,445 - Cosano J. - Status: waiting
+2024-06-01 18:26:22,447 - Cosano J. - Status: ok (already scraped)
+2024-06-01 18:26:22,447 - Krueger M. - Status: waiting
+2024-06-01 18:26:22,448 - Krueger M. - Status: ok (already scraped)
+2024-06-01 18:26:22,448 - Quinn E. - Status: waiting
+2024-06-01 18:26:22,450 - Quinn E. - Status: ok (already scraped)
+2024-06-01 18:26:22,450 - Tseng C. - Status: waiting
+2024-06-01 18:26:22,452 - Tseng C. - Status: ok (already scraped)
+2024-06-01 18:26:22,452 - Kachmazov A. - Status: waiting
+2024-06-01 18:26:22,454 - Kachmazov A. - Status: ok (already scraped)
+2024-06-01 18:26:22,454 - Izquierdo N. - Status: waiting
+2024-06-01 18:26:22,456 - Izquierdo N. - Status: ok (already scraped)
+2024-06-01 18:26:22,456 - Habib H. - Status: waiting
+2024-06-01 18:26:22,457 - Habib H. - Status: ok (already scraped)
+2024-06-01 18:26:22,457 - Kirkin E. - Status: waiting
+2024-06-01 18:26:22,459 - Kirkin E. - Status: ok (already scraped)
+2024-06-01 18:26:22,460 - Johnson S. - Status: waiting
+2024-06-01 18:26:22,463 - Johnson S. - Status: ok (already scraped)
+2024-06-01 18:26:22,463 - Kasnikowski M. - Status: waiting
+2024-06-01 18:26:22,465 - Kasnikowski M. - Status: ok (already scraped)
+2024-06-01 18:26:22,465 - Shimizu Y. - Status: waiting
+2024-06-01 18:26:22,467 - Shimizu Y. - Status: ok (already scraped)
+2024-06-01 18:26:22,467 - Mejia N. - Status: waiting
+2024-06-01 18:26:22,470 - Mejia N. - Status: ok (already scraped)
+2024-06-01 18:26:22,470 - Gakhov I. - Status: waiting
+2024-06-01 18:26:22,473 - Gakhov I. - Status: ok (already scraped)
+2024-06-01 18:26:22,473 - Gerasimov E. - Status: waiting
+2024-06-01 18:26:22,476 - Gerasimov E. - Status: ok (already scraped)
+2024-06-01 18:26:22,476 - Moller E. - Status: waiting
+2024-06-01 18:26:22,478 - Moller E. - Status: ok (already scraped)
+2024-06-01 18:26:22,478 - Kwiatkowski T. - Status: waiting
+2024-06-01 18:26:22,480 - Kwiatkowski T. - Status: ok (already scraped)
+2024-06-01 18:26:22,480 - Coppejans K. - Status: waiting
+2024-06-01 18:26:22,482 - Coppejans K. - Status: ok (already scraped)
+2024-06-01 18:26:22,482 - Wu T. - Status: waiting
+2024-06-01 18:26:22,484 - Wu T. - Status: ok (already scraped)
+2024-06-01 18:26:22,484 - Olivo R. - Status: waiting
+2024-06-01 18:26:22,485 - Olivo R. - Status: ok (already scraped)
+2024-06-01 18:26:22,485 - Bueno G. - Status: waiting
+2024-06-01 18:26:22,487 - Bueno G. - Status: ok (already scraped)
+2024-06-01 18:26:22,487 - Blancaneaux G. - Status: waiting
+2024-06-01 18:26:22,489 - Blancaneaux G. - Status: ok (already scraped)
+2024-06-01 18:26:22,489 - Gaubas V. - Status: waiting
+2024-06-01 18:26:22,490 - Gaubas V. - Status: ok (already scraped)
+2024-06-01 18:26:22,490 - Meza A. - Status: waiting
+2024-06-01 18:26:22,492 - Meza A. - Status: ok (already scraped)
+2024-06-01 18:26:22,492 - Chidekh C. - Status: waiting
+2024-06-01 18:26:22,493 - Chidekh C. - Status: ok (already scraped)
+2024-06-01 18:26:22,493 - Lamasine T. - Status: waiting
+2024-06-01 18:26:22,495 - Lamasine T. - Status: ok (already scraped)
+2024-06-01 18:26:22,495 - Jianu F. - Status: waiting
+2024-06-01 18:26:22,496 - Jianu F. - Status: ok (already scraped)
+2024-06-01 18:26:22,496 - Moeller M. - Status: waiting
+2024-06-01 18:26:22,498 - Moeller M. - Status: ok (already scraped)
+2024-06-01 18:26:22,498 - Sousa J. - Status: waiting
+2024-06-01 18:26:22,500 - Sousa J. - Status: ok (already scraped)
+2024-06-01 18:26:22,500 - Kolar Z. - Status: waiting
+2024-06-01 18:26:22,502 - Kolar Z. - Status: ok (already scraped)
+2024-06-01 18:26:22,502 - Majchrzak K. - Status: waiting
+2024-06-01 18:26:22,503 - Majchrzak K. - Status: ok (already scraped)
+2024-06-01 18:26:22,503 - Vallejo A. - Status: waiting
+2024-06-01 18:26:22,504 - Vallejo A. - Status: ok (already scraped)
+2024-06-01 18:26:22,504 - Collarini A. - Status: waiting
+2024-06-01 18:26:22,506 - Collarini A. - Status: ok (already scraped)
+2024-06-01 18:26:22,506 - Bourgue M. - Status: waiting
+2024-06-01 18:26:22,508 - Bourgue M. - Status: ok (already scraped)
+2024-06-01 18:26:22,508 - Mager G. - Status: waiting
+2024-06-01 18:26:22,510 - Mager G. - Status: ok (already scraped)
+2024-06-01 18:26:22,510 - Masur D. - Status: waiting
+2024-06-01 18:26:22,511 - Masur D. - Status: ok (already scraped)
+2024-06-01 18:26:22,511 - Vrbensky M. - Status: waiting
+2024-06-01 18:26:22,512 - Vrbensky M. - Status: ok (already scraped)
+2024-06-01 18:26:22,512 - Blockx A. - Status: waiting
+2024-06-01 18:26:22,514 - Blockx A. - Status: ok (already scraped)
+2024-06-01 18:26:22,514 - Holt B. - Status: waiting
+2024-06-01 18:26:22,515 - Holt B. - Status: ok (already scraped)
+2024-06-01 18:26:22,515 - Jung J. - Status: waiting
+2024-06-01 18:26:22,518 - Jung J. - Status: ok (already scraped)
+2024-06-01 18:26:22,518 - Andreozzi G. - Status: waiting
+2024-06-01 18:26:22,520 - Andreozzi G. - Status: ok (already scraped)
+2024-06-01 18:26:22,520 - Sakamoto P. - Status: waiting
+2024-06-01 18:26:22,521 - Sakamoto P. - Status: ok (already scraped)
+2024-06-01 18:26:22,521 - Holmgren A. - Status: waiting
+2024-06-01 18:26:22,523 - Holmgren A. - Status: ok (already scraped)
+2024-06-01 18:26:22,523 - Bicknell B. - Status: waiting
+2024-06-01 18:26:22,524 - Bicknell B. - Status: ok (already scraped)
+2024-06-01 18:26:22,524 - Berankis R. - Status: waiting
+2024-06-01 18:26:22,525 - Berankis R. - Status: ok (already scraped)
+2024-06-01 18:26:22,525 - Jubb P. - Status: waiting
+2024-06-01 18:26:22,527 - Jubb P. - Status: ok (already scraped)
+2024-06-01 18:26:22,527 - Taberner C. - Status: waiting
+2024-06-01 18:26:22,528 - Taberner C. - Status: ok (already scraped)
+2024-06-01 18:26:22,528 - Gomez F. - Status: waiting
+2024-06-01 18:26:22,530 - Gomez F. - Status: ok (already scraped)
+2024-06-01 18:26:22,530 - Fanselow S. - Status: waiting
+2024-06-01 18:26:22,533 - Fanselow S. - Status: ok (already scraped)
+2024-06-01 18:26:22,533 - Landaluce M. - Status: waiting
+2024-06-01 18:26:22,534 - Landaluce M. - Status: ok (already scraped)
+2024-06-01 18:26:22,534 - Bai Y. - Status: waiting
+2024-06-01 18:26:22,536 - Bai Y. - Status: ok (already scraped)
+2024-06-01 18:26:22,536 - Noguchi R. - Status: waiting
+2024-06-01 18:26:22,538 - Noguchi R. - Status: ok (already scraped)
+2024-06-01 18:26:22,538 - Brancaccio R. - Status: waiting
+2024-06-01 18:26:22,540 - Brancaccio R. - Status: ok (already scraped)
+2024-06-01 18:26:22,540 - Saville L. - Status: waiting
+2024-06-01 18:26:22,542 - Saville L. - Status: ok (already scraped)
+2024-06-01 18:26:22,542 - Andrade A. - Status: waiting
+2024-06-01 18:26:22,543 - Andrade A. - Status: ok (already scraped)
+2024-06-01 18:26:22,543 - Sanchis D. - Status: waiting
+2024-06-01 18:26:22,545 - Sanchis D. - Status: ok (already scraped)
+2024-06-01 18:26:22,545 - Geerts M. - Status: waiting
+2024-06-01 18:26:22,546 - Geerts M. - Status: ok (already scraped)
+2024-06-01 18:26:22,546 - Sultanov K. - Status: waiting
+2024-06-01 18:26:22,548 - Sultanov K. - Status: ok (already scraped)
+2024-06-01 18:26:22,548 - Ramanathan R. - Status: waiting
+2024-06-01 18:26:22,550 - Ramanathan R. - Status: ok (already scraped)
+2024-06-01 18:26:22,550 - Almeida M. - Status: waiting
+2024-06-01 18:26:22,552 - Almeida M. - Status: ok (already scraped)
+2024-06-01 18:26:22,552 - Casanova H. - Status: waiting
+2024-06-01 18:26:22,553 - Casanova H. - Status: ok (already scraped)
+2024-06-01 18:26:22,553 - Mena F. - Status: waiting
+2024-06-01 18:26:22,555 - Mena F. - Status: ok (already scraped)
+2024-06-01 18:26:22,555 - Moriya H. - Status: waiting
+2024-06-01 18:26:22,556 - Moriya H. - Status: ok (already scraped)
+2024-06-01 18:26:22,556 - Echargui M. - Status: waiting
+2024-06-01 18:26:22,558 - Echargui M. - Status: ok (already scraped)
+2024-06-01 18:26:22,558 - Buse I. - Status: waiting
+2024-06-01 18:26:22,560 - Buse I. - Status: ok (already scraped)
+2024-06-01 18:26:22,560 - Bellier A. - Status: waiting
+2024-06-01 18:26:22,562 - Bellier A. - Status: ok (already scraped)
+2024-06-01 18:26:22,562 - Mccabe J. - Status: waiting
+2024-06-01 18:26:22,563 - Mccabe J. - Status: ok (already scraped)
+2024-06-01 18:26:22,563 - Naw H. - Status: waiting
+2024-06-01 18:26:22,565 - Naw H. - Status: ok (already scraped)
+2024-06-01 18:26:22,565 - Bonadio R. - Status: waiting
+2024-06-01 18:26:22,567 - Bonadio R. - Status: ok (already scraped)
+2024-06-01 18:26:22,567 - Forejtek J. - Status: waiting
+2024-06-01 18:26:22,569 - Forejtek J. - Status: ok (already scraped)
+2024-06-01 18:26:22,569 - Nishikori K. - Status: waiting
+2024-06-01 18:26:22,570 - Nishikori K. - Status: ok (already scraped)
+2024-06-01 18:26:22,570 - Luz O. - Status: waiting
+2024-06-01 18:26:22,572 - Luz O. - Status: ok (already scraped)
+2024-06-01 18:26:22,572 - Mchugh A. - Status: waiting
+2024-06-01 18:26:50,913 - Mchugh A. - Status: error ('NoneType' object has no attribute 'find_all')
+2024-06-01 18:26:54,973 - Lock B. - Status: waiting
+2024-06-01 18:26:54,975 - Lock B. - Status: ok (already scraped)
+2024-06-01 18:26:54,975 - Mott B. - Status: waiting
+2024-06-01 18:26:54,977 - Mott B. - Status: ok (already scraped)
+2024-06-01 18:26:54,977 - Clarke J. - Status: waiting
+2024-06-01 18:26:54,978 - Clarke J. - Status: ok (already scraped)
+2024-06-01 18:26:54,978 - Serdarusic N. - Status: waiting
+2024-06-01 18:26:54,980 - Serdarusic N. - Status: ok (already scraped)
+2024-06-01 18:26:54,980 - Elias G. - Status: waiting
+2024-06-01 18:26:54,983 - Elias G. - Status: ok (already scraped)
+2024-06-01 18:26:54,983 - Michalski D. - Status: waiting
+2024-06-01 18:26:54,984 - Michalski D. - Status: ok (already scraped)
+2024-06-01 18:26:54,984 - Cretu C. - Status: waiting
+2024-06-01 18:26:54,986 - Cretu C. - Status: ok (already scraped)
+2024-06-01 18:26:54,986 - Giannessi A. - Status: waiting
+2024-06-01 18:26:54,988 - Giannessi A. - Status: ok (already scraped)
+2024-06-01 18:26:54,988 - Oliel Y. - Status: waiting
+2024-06-01 18:26:54,989 - Oliel Y. - Status: ok (already scraped)
+2024-06-01 18:26:54,989 - Safwat M. - Status: waiting
+2024-06-01 18:26:54,992 - Safwat M. - Status: ok (already scraped)
+2024-06-01 18:26:54,992 - Delbonis F. - Status: waiting
+2024-06-01 18:26:54,993 - Delbonis F. - Status: ok (already scraped)
+2024-06-01 18:26:54,993 - Giustino L. - Status: waiting
+2024-06-01 18:26:54,995 - Giustino L. - Status: ok (already scraped)
+2024-06-01 18:26:54,995 - Kumar O. - Status: waiting
+2024-06-01 18:26:54,997 - Kumar O. - Status: ok (already scraped)
+2024-06-01 18:26:54,997 - Gea A. - Status: waiting
+2024-06-01 18:27:20,823 - Gea A. - Status: error ('NoneType' object has no attribute 'find_all')
+2024-06-01 18:27:24,890 - Wessels L. - Status: waiting
+2024-06-01 18:27:24,897 - Wessels L. - Status: ok (already scraped)
+2024-06-01 18:27:24,897 - Silva D. - Status: waiting
+2024-06-01 18:27:24,905 - Silva D. - Status: ok (already scraped)
+2024-06-01 18:27:24,905 - Ionel N. - Status: waiting
+2024-06-01 18:27:24,910 - Ionel N. - Status: ok (already scraped)
+2024-06-01 18:27:24,911 - Copil M. - Status: waiting
+2024-06-01 18:27:24,917 - Copil M. - Status: ok (already scraped)
+2024-06-01 18:27:24,917 - Silva F. - Status: waiting
+2024-06-01 18:27:24,924 - Silva F. - Status: ok (already scraped)
+2024-06-01 18:27:24,924 - Erel Y. - Status: waiting
+2024-06-01 18:27:24,927 - Erel Y. - Status: ok (already scraped)
+2024-06-01 18:27:24,927 - Sakellaridis S. - Status: waiting
+2024-06-01 18:27:24,933 - Sakellaridis S. - Status: ok (already scraped)
+2024-06-01 18:27:24,933 - Valkusz M. - Status: waiting
+2024-06-01 18:27:24,938 - Valkusz M. - Status: ok (already scraped)
+2024-06-01 18:27:24,938 - Cui J. - Status: waiting
+2024-06-01 18:27:24,942 - Cui J. - Status: ok (already scraped)
+2024-06-01 18:27:24,942 - Celikbilek A. - Status: waiting
+2024-06-01 18:27:24,945 - Celikbilek A. - Status: ok (already scraped)
+2024-06-01 18:27:24,945 - Busta P. - Status: waiting
+2024-06-01 18:27:24,950 - Busta P. - Status: ok (already scraped)
+2024-06-01 18:27:24,950 - Basilashvili N. - Status: waiting
+2024-06-01 18:27:24,953 - Basilashvili N. - Status: ok (already scraped)
+2024-06-01 18:27:24,954 - Cilic M. - Status: waiting
+2024-06-01 18:27:24,957 - Cilic M. - Status: ok (already scraped)
+2024-06-01 18:27:24,957 - Krajinovic F. - Status: waiting
+2024-06-01 18:27:24,960 - Krajinovic F. - Status: ok (already scraped)
+2024-06-01 18:27:24,960 - Millman J. - Status: waiting
+2024-06-01 18:27:24,964 - Millman J. - Status: ok (already scraped)
+2024-06-01 18:27:24,964 - Otte O. - Status: waiting
+2024-06-01 18:27:24,968 - Otte O. - Status: ok (already scraped)
+2024-06-01 18:27:24,968 - Laaksonen H. - Status: waiting
+2024-06-01 18:27:24,972 - Laaksonen H. - Status: ok (already scraped)
+2024-06-01 18:27:24,972 - Anderson K. - Status: waiting
+2024-06-01 18:27:24,974 - Anderson K. - Status: ok (already scraped)
+2024-06-01 18:27:24,974 - Cecchinato M. - Status: waiting
+2024-06-01 18:27:24,977 - Cecchinato M. - Status: ok (already scraped)
+2024-06-01 18:27:24,977 - Cuevas P. - Status: waiting
+2024-06-01 18:27:24,981 - Cuevas P. - Status: ok (already scraped)
+2024-06-01 18:27:24,981 - Gombos N. - Status: waiting
+2024-06-01 18:27:24,984 - Gombos N. - Status: ok (already scraped)
+2024-06-01 18:27:24,984 - Lopez F. - Status: waiting
+2024-06-01 18:27:24,987 - Lopez F. - Status: ok (already scraped)
+2024-06-01 18:27:24,987 - Kozlov S. - Status: waiting
+2024-06-01 18:27:24,992 - Kozlov S. - Status: ok (already scraped)
+2024-06-01 18:27:24,992 - Verdasco F. - Status: waiting
+2024-06-01 18:27:24,995 - Verdasco F. - Status: ok (already scraped)
+2024-06-01 18:27:24,995 - Moraing M. - Status: waiting
+2024-06-01 18:27:24,999 - Moraing M. - Status: ok (already scraped)
+2024-06-01 18:27:24,999 - Milojevic N. - Status: waiting
+2024-06-01 18:27:25,003 - Milojevic N. - Status: ok (already scraped)
+2024-06-01 18:27:25,003 - Londero J. - Status: waiting
+2024-06-01 18:27:25,007 - Londero J. - Status: ok (already scraped)
+2024-06-01 18:27:25,008 - Pospisil V. - Status: waiting
+2024-06-01 18:27:25,011 - Pospisil V. - Status: ok (already scraped)
+2024-06-01 18:27:25,011 - Escobedo E. - Status: waiting
+2024-06-01 18:27:25,015 - Escobedo E. - Status: ok (already scraped)
+2024-06-01 18:27:25,015 - Gomez E. - Status: waiting
+2024-06-01 18:27:25,018 - Gomez E. - Status: ok (already scraped)
+2024-06-01 18:27:25,018 - Caruso S. - Status: waiting
+2024-06-01 18:27:59,523 - Caruso S. - Status: ok (written)
+2024-06-01 18:27:59,523 - Fratangelo B. - Status: waiting
+2024-06-01 18:28:30,207 - Fratangelo B. - Status: ok (written)
+2024-06-01 18:30:58,228 - Djokovic N. - Status: waiting
+2024-06-01 18:30:58,230 - Djokovic N. - Status: ok (already scraped)
+2024-06-01 18:30:58,230 - Sinner J. - Status: waiting
+2024-06-01 18:30:58,233 - Sinner J. - Status: ok (already scraped)
+2024-06-01 18:30:58,233 - Alcaraz C. - Status: waiting
+2024-06-01 18:30:58,235 - Alcaraz C. - Status: ok (already scraped)
+2024-06-01 18:30:58,235 - Zverev A. - Status: waiting
+2024-06-01 18:30:58,237 - Zverev A. - Status: ok (already scraped)
+2024-06-01 18:30:58,237 - Medvedev D. - Status: waiting
+2024-06-01 18:30:58,238 - Medvedev D. - Status: ok (already scraped)
+2024-06-01 18:30:58,238 - Rublev A. - Status: waiting
+2024-06-01 18:30:58,240 - Rublev A. - Status: ok (already scraped)
+2024-06-01 18:30:58,240 - Ruud C. - Status: waiting
+2024-06-01 18:30:58,242 - Ruud C. - Status: ok (already scraped)
+2024-06-01 18:30:58,242 - Hurkacz H. - Status: waiting
+2024-06-01 18:30:58,243 - Hurkacz H. - Status: ok (already scraped)
+2024-06-01 18:30:58,244 - Tsitsipas S. - Status: waiting
+2024-06-01 18:30:58,246 - Tsitsipas S. - Status: ok (already scraped)
+2024-06-01 18:30:58,246 - Dimitrov G. - Status: waiting
+2024-06-01 18:30:58,248 - Dimitrov G. - Status: ok (already scraped)
+2024-06-01 18:30:58,248 - Minaur A. - Status: waiting
+2024-06-01 18:30:58,250 - Minaur A. - Status: ok (already scraped)
+2024-06-01 18:30:58,250 - Fritz T. - Status: waiting
+2024-06-01 18:30:58,252 - Fritz T. - Status: ok (already scraped)
+2024-06-01 18:30:58,252 - Rune H. - Status: waiting
+2024-06-01 18:30:58,253 - Rune H. - Status: ok (already scraped)
+2024-06-01 18:30:58,253 - Paul T. - Status: waiting
+2024-06-01 18:30:58,256 - Paul T. - Status: ok (already scraped)
+2024-06-01 18:30:58,256 - Shelton B. - Status: waiting
+2024-06-01 18:30:58,258 - Shelton B. - Status: ok (already scraped)
+2024-06-01 18:30:58,258 - Jarry N. - Status: waiting
+2024-06-01 18:30:58,259 - Jarry N. - Status: ok (already scraped)
+2024-06-01 18:30:58,259 - Humbert U. - Status: waiting
+2024-06-01 18:30:58,261 - Humbert U. - Status: ok (already scraped)
+2024-06-01 18:30:58,261 - Khachanov K. - Status: waiting
+2024-06-01 18:30:58,262 - Khachanov K. - Status: ok (already scraped)
+2024-06-01 18:30:58,262 - Bublik A. - Status: waiting
+2024-06-01 18:30:58,265 - Bublik A. - Status: ok (already scraped)
+2024-06-01 18:30:58,265 - Baez S. - Status: waiting
+2024-06-01 18:30:58,267 - Baez S. - Status: ok (already scraped)
+2024-06-01 18:30:58,267 - Aliassime F. - Status: waiting
+2024-06-01 18:30:58,268 - Aliassime F. - Status: ok (already scraped)
+2024-06-01 18:30:58,268 - Mannarino A. - Status: waiting
+2024-06-01 18:30:58,270 - Mannarino A. - Status: ok (already scraped)
+2024-06-01 18:30:58,270 - Cerundolo F. - Status: waiting
+2024-06-01 18:30:58,272 - Cerundolo F. - Status: ok (already scraped)
+2024-06-01 18:30:58,273 - Lehecka J. - Status: waiting
+2024-06-01 18:30:58,274 - Lehecka J. - Status: ok (already scraped)
+2024-06-01 18:30:58,274 - Tabilo A. - Status: waiting
+2024-06-01 18:30:58,276 - Tabilo A. - Status: ok (already scraped)
+2024-06-01 18:30:58,276 - Tiafoe F. - Status: waiting
+2024-06-01 18:30:58,278 - Tiafoe F. - Status: ok (already scraped)
+2024-06-01 18:30:58,278 - Griekspoor T. - Status: waiting
+2024-06-01 18:30:58,280 - Griekspoor T. - Status: ok (already scraped)
+2024-06-01 18:30:58,280 - Korda S. - Status: waiting
+2024-06-01 18:30:58,281 - Korda S. - Status: ok (already scraped)
+2024-06-01 18:30:58,281 - Etcheverry T. - Status: waiting
+2024-06-01 18:30:58,283 - Etcheverry T. - Status: ok (already scraped)
+2024-06-01 18:30:58,283 - Fils A. - Status: waiting
+2024-06-01 18:30:58,284 - Fils A. - Status: ok (already scraped)
+2024-06-01 18:30:58,284 - Musetti L. - Status: waiting
+2024-06-01 18:30:58,286 - Musetti L. - Status: ok (already scraped)
+2024-06-01 18:30:58,286 - Navone M. - Status: waiting
+2024-06-01 18:30:58,287 - Navone M. - Status: ok (already scraped)
+2024-06-01 18:30:58,287 - Norrie C. - Status: waiting
+2024-06-01 18:30:58,290 - Norrie C. - Status: ok (already scraped)
+2024-06-01 18:30:58,290 - Fokina A. - Status: waiting
+2024-06-01 18:30:58,292 - Fokina A. - Status: ok (already scraped)
+2024-06-01 18:30:58,292 - Draper J. - Status: waiting
+2024-06-01 18:30:58,293 - Draper J. - Status: ok (already scraped)
+2024-06-01 18:30:58,293 - Arnaldi M. - Status: waiting
+2024-06-01 18:30:58,294 - Arnaldi M. - Status: ok (already scraped)
+2024-06-01 18:30:58,294 - Thompson J. - Status: waiting
+2024-06-01 18:30:58,296 - Thompson J. - Status: ok (already scraped)
+2024-06-01 18:30:58,296 - Monfils G. - Status: waiting
+2024-06-01 18:30:58,298 - Monfils G. - Status: ok (already scraped)
+2024-06-01 18:30:58,298 - Struff J. - Status: waiting
+2024-06-01 18:30:58,299 - Struff J. - Status: ok (already scraped)
+2024-06-01 18:30:58,299 - Safiullin R. - Status: waiting
+2024-06-01 18:30:58,301 - Safiullin R. - Status: ok (already scraped)
+2024-06-01 18:30:58,301 - Marozsan F. - Status: waiting
+2024-06-01 18:30:58,303 - Marozsan F. - Status: ok (already scraped)
+2024-06-01 18:30:58,303 - Zhang Z. - Status: waiting
+2024-06-01 18:30:58,305 - Zhang Z. - Status: ok (already scraped)
+2024-06-01 18:30:58,305 - Eubanks C. - Status: waiting
+2024-06-01 18:30:58,306 - Eubanks C. - Status: ok (already scraped)
+2024-06-01 18:30:58,306 - Machac T. - Status: waiting
+2024-06-01 18:30:58,308 - Machac T. - Status: ok (already scraped)
+2024-06-01 18:30:58,308 - Ofner S. - Status: waiting
+2024-06-01 18:30:58,309 - Ofner S. - Status: ok (already scraped)
+2024-06-01 18:30:58,309 - Borges N. - Status: waiting
+2024-06-01 18:30:58,311 - Borges N. - Status: ok (already scraped)
+2024-06-01 18:30:58,311 - Darderi L. - Status: waiting
+2024-06-01 18:30:58,313 - Darderi L. - Status: ok (already scraped)
+2024-06-01 18:30:58,313 - Giron M. - Status: waiting
+2024-06-01 18:30:58,314 - Giron M. - Status: ok (already scraped)
+2024-06-01 18:30:58,314 - Martinez P. - Status: waiting
+2024-06-01 18:30:58,316 - Martinez P. - Status: ok (already scraped)
+2024-06-01 18:30:58,316 - Sonego L. - Status: waiting
+2024-06-01 18:30:58,317 - Sonego L. - Status: ok (already scraped)
+2024-06-01 18:30:58,317 - Popyrin A. - Status: waiting
+2024-06-01 18:30:58,319 - Popyrin A. - Status: ok (already scraped)
+2024-06-01 18:30:58,319 - Djere L. - Status: waiting
+2024-06-01 18:30:58,320 - Djere L. - Status: ok (already scraped)
+2024-06-01 18:30:58,321 - Fucsovics M. - Status: waiting
+2024-06-01 18:30:58,323 - Fucsovics M. - Status: ok (already scraped)
+2024-06-01 18:30:58,323 - Acosta F. - Status: waiting
+2024-06-01 18:30:58,324 - Acosta F. - Status: ok (already scraped)
+2024-06-01 18:30:58,324 - Kecmanovic M. - Status: waiting
+2024-06-01 18:30:58,326 - Kecmanovic M. - Status: ok (already scraped)
+2024-06-01 18:30:58,326 - Cobolli F. - Status: waiting
+2024-06-01 18:30:58,328 - Cobolli F. - Status: ok (already scraped)
+2024-06-01 18:30:58,328 - Kotov P. - Status: waiting
+2024-06-01 18:30:58,329 - Kotov P. - Status: ok (already scraped)
+2024-06-01 18:30:58,329 - Wild T. - Status: waiting
+2024-06-01 18:30:58,331 - Wild T. - Status: ok (already scraped)
+2024-06-01 18:30:58,331 - Lajovic D. - Status: waiting
+2024-06-01 18:30:58,333 - Lajovic D. - Status: ok (already scraped)
+2024-06-01 18:30:58,333 - Evans D. - Status: waiting
+2024-06-01 18:30:58,334 - Evans D. - Status: ok (already scraped)
+2024-06-01 18:30:58,334 - Shevchenko A. - Status: waiting
+2024-06-01 18:30:58,336 - Shevchenko A. - Status: ok (already scraped)
+2024-06-01 18:30:58,336 - Baena R. - Status: waiting
+2024-06-01 18:30:58,337 - Baena R. - Status: ok (already scraped)
+2024-06-01 18:30:58,337 - Munar J. - Status: waiting
+2024-06-01 18:30:58,338 - Munar J. - Status: ok (already scraped)
+2024-06-01 18:30:58,338 - Michelsen A. - Status: waiting
+2024-06-01 18:30:58,340 - Michelsen A. - Status: ok (already scraped)
+2024-06-01 18:30:58,340 - Ruusuvuori E. - Status: waiting
+2024-06-01 18:30:58,343 - Ruusuvuori E. - Status: ok (already scraped)
+2024-06-01 18:30:58,343 - Koepfer D. - Status: waiting
+2024-06-01 18:30:58,344 - Koepfer D. - Status: ok (already scraped)
+2024-06-01 18:30:58,344 - Nakashima B. - Status: waiting
+2024-06-01 18:30:58,345 - Nakashima B. - Status: ok (already scraped)
+2024-06-01 18:30:58,345 - Coria F. - Status: waiting
+2024-06-01 18:30:58,347 - Coria F. - Status: ok (already scraped)
+2024-06-01 18:30:58,347 - Nardi L. - Status: waiting
+2024-06-01 18:30:58,349 - Nardi L. - Status: ok (already scraped)
+2024-06-01 18:30:58,349 - Coric B. - Status: waiting
+2024-06-01 18:30:58,350 - Coric B. - Status: ok (already scraped)
+2024-06-01 18:30:58,350 - Nishioka Y. - Status: waiting
+2024-06-01 18:30:58,352 - Nishioka Y. - Status: ok (already scraped)
+2024-06-01 18:30:58,352 - Rinderknech A. - Status: waiting
+2024-06-01 18:30:58,355 - Rinderknech A. - Status: ok (already scraped)
+2024-06-01 18:30:58,355 - Mcdonald M. - Status: waiting
+2024-06-01 18:30:58,356 - Mcdonald M. - Status: ok (already scraped)
+2024-06-01 18:30:58,356 - Murray A. - Status: waiting
+2024-06-01 18:30:58,358 - Murray A. - Status: ok (already scraped)
+2024-06-01 18:30:58,358 - Mensik J. - Status: waiting
+2024-06-01 18:30:58,360 - Mensik J. - Status: ok (already scraped)
+2024-06-01 18:30:58,360 - Cazaux A. - Status: waiting
+2024-06-01 18:30:58,362 - Cazaux A. - Status: ok (already scraped)
+2024-06-01 18:30:58,362 - Hijikata R. - Status: waiting
+2024-06-01 18:30:58,364 - Hijikata R. - Status: ok (already scraped)
+2024-06-01 18:30:58,364 - Moutet C. - Status: waiting
+2024-06-01 18:30:58,365 - Moutet C. - Status: ok (already scraped)
+2024-06-01 18:30:58,365 - Agut R. - Status: waiting
+2024-06-01 18:30:58,367 - Agut R. - Status: ok (already scraped)
+2024-06-01 18:30:58,367 - Daniel T. - Status: waiting
+2024-06-01 18:30:58,369 - Daniel T. - Status: ok (already scraped)
+2024-06-01 18:30:58,369 - Karatsev A. - Status: waiting
+2024-06-01 18:30:58,370 - Karatsev A. - Status: ok (already scraped)
+2024-06-01 18:30:58,370 - Altmaier D. - Status: waiting
+2024-06-01 18:30:58,371 - Altmaier D. - Status: ok (already scraped)
+2024-06-01 18:30:58,371 - Monteiro T. - Status: waiting
+2024-06-01 18:30:58,374 - Monteiro T. - Status: ok (already scraped)
+2024-06-01 18:30:58,374 - Hanfmann Y. - Status: waiting
+2024-06-01 18:30:58,375 - Hanfmann Y. - Status: ok (already scraped)
+2024-06-01 18:30:58,375 - Lestienne C. - Status: waiting
+2024-06-01 18:30:58,377 - Lestienne C. - Status: ok (already scraped)
+2024-06-01 18:30:58,377 - Comesana F. - Status: waiting
+2024-06-01 18:30:58,378 - Comesana F. - Status: ok (already scraped)
+2024-06-01 18:30:58,378 - Kovacevic A. - Status: waiting
+2024-06-01 18:30:58,380 - Kovacevic A. - Status: ok (already scraped)
+2024-06-01 18:30:58,380 - Shang J. - Status: waiting
+2024-06-01 18:30:58,382 - Shang J. - Status: ok (already scraped)
+2024-06-01 18:30:58,382 - Muller A. - Status: waiting
+2024-06-01 18:30:58,384 - Muller A. - Status: ok (already scraped)
+2024-06-01 18:30:58,384 - Fognini F. - Status: waiting
+2024-06-01 18:30:58,386 - Fognini F. - Status: ok (already scraped)
+2024-06-01 18:30:58,386 - Purcell M. - Status: waiting
+2024-06-01 18:30:58,387 - Purcell M. - Status: ok (already scraped)
+2024-06-01 18:30:58,387 - Vukic A. - Status: waiting
+2024-06-01 18:30:58,389 - Vukic A. - Status: ok (already scraped)
+2024-06-01 18:30:58,389 - Nagal S. - Status: waiting
+2024-06-01 18:30:58,391 - Nagal S. - Status: ok (already scraped)
+2024-06-01 18:30:58,391 - Walton A. - Status: waiting
+2024-06-01 18:30:58,393 - Walton A. - Status: ok (already scraped)
+2024-06-01 18:30:58,393 - Berrettini M. - Status: waiting
+2024-06-01 18:30:58,395 - Berrettini M. - Status: ok (already scraped)
+2024-06-01 18:30:58,395 - Wawrinka S. - Status: waiting
+2024-06-01 18:30:58,396 - Wawrinka S. - Status: ok (already scraped)
+2024-06-01 18:30:58,396 - Kokkinakis T. - Status: waiting
+2024-06-01 18:30:58,398 - Kokkinakis T. - Status: ok (already scraped)
+2024-06-01 18:30:58,398 - Marterer M. - Status: waiting
+2024-06-01 18:30:58,400 - Marterer M. - Status: ok (already scraped)
+2024-06-01 18:30:58,400 - Zandschulp B. - Status: waiting
+2024-06-01 18:30:58,402 - Zandschulp B. - Status: ok (already scraped)
+2024-06-01 18:30:58,402 - Gaston H. - Status: waiting
+2024-06-01 18:30:58,404 - Gaston H. - Status: ok (already scraped)
+2024-06-01 18:30:58,404 - Shapovalov D. - Status: waiting
+2024-06-01 18:30:58,405 - Shapovalov D. - Status: ok (already scraped)
+2024-06-01 18:30:58,405 - Galan D. - Status: waiting
+2024-06-01 18:30:58,407 - Galan D. - Status: ok (already scraped)
+2024-06-01 18:30:58,407 - Goffin D. - Status: waiting
+2024-06-01 18:30:58,409 - Goffin D. - Status: ok (already scraped)
+2024-06-01 18:30:58,409 - Halys Q. - Status: waiting
+2024-06-01 18:30:58,410 - Halys Q. - Status: ok (already scraped)
+2024-06-01 18:30:58,410 - Broady L. - Status: waiting
+2024-06-01 18:30:58,412 - Broady L. - Status: ok (already scraped)
+2024-06-01 18:30:58,412 - Pella G. - Status: waiting
+2024-06-01 18:30:58,413 - Pella G. - Status: ok (already scraped)
+2024-06-01 18:30:58,413 - Ymer M. - Status: waiting
+2024-06-01 18:30:58,415 - Ymer M. - Status: ok (already scraped)
+2024-06-01 18:30:58,415 - Nadal R. - Status: waiting
+2024-06-01 18:30:58,417 - Nadal R. - Status: ok (already scraped)
+2024-06-01 18:30:58,417 - Thiem D. - Status: waiting
+2024-06-01 18:30:58,421 - Thiem D. - Status: ok (already scraped)
+2024-06-01 18:30:58,421 - Isner J. - Status: waiting
+2024-06-01 18:30:58,423 - Isner J. - Status: ok (already scraped)
+2024-06-01 18:30:58,423 - Gasquet R. - Status: waiting
+2024-06-01 18:30:58,425 - Gasquet R. - Status: ok (already scraped)
+2024-06-01 18:30:58,425 - Raonic M. - Status: waiting
+2024-06-01 18:30:58,427 - Raonic M. - Status: ok (already scraped)
+2024-06-01 18:30:58,427 - Garin C. - Status: waiting
+2024-06-01 18:30:58,429 - Garin C. - Status: ok (already scraped)
+2024-06-01 18:30:58,429 - Mahut N. - Status: waiting
+2024-06-01 18:30:58,431 - Mahut N. - Status: ok (already scraped)
+2024-06-01 18:30:58,431 - Schwartzman D. - Status: waiting
+2024-06-01 18:30:58,433 - Schwartzman D. - Status: ok (already scraped)
+2024-06-01 18:30:58,433 - Vinolas A. - Status: waiting
+2024-06-01 18:30:58,435 - Vinolas A. - Status: ok (already scraped)
+2024-06-01 18:30:58,435 - Granollers M. - Status: waiting
+2024-06-01 18:30:58,436 - Granollers M. - Status: ok (already scraped)
+2024-06-01 18:30:58,437 - Opelka R. - Status: waiting
+2024-06-01 18:30:58,438 - Opelka R. - Status: ok (already scraped)
+2024-06-01 18:30:58,438 - Paire B. - Status: waiting
+2024-06-01 18:30:58,439 - Paire B. - Status: ok (already scraped)
+2024-06-01 18:30:58,440 - Vesely J. - Status: waiting
+2024-06-01 18:30:58,441 - Vesely J. - Status: ok (already scraped)
+2024-06-01 18:30:58,441 - Ram R. - Status: waiting
+2024-06-01 18:30:58,444 - Ram R. - Status: ok (already scraped)
+2024-06-01 18:30:58,444 - Huesler M. - Status: waiting
+2024-06-01 18:30:58,445 - Huesler M. - Status: ok (already scraped)
+2024-06-01 18:30:58,446 - Kwon S. - Status: waiting
+2024-06-01 18:30:58,447 - Kwon S. - Status: ok (already scraped)
+2024-06-01 18:30:58,447 - Chardy J. - Status: waiting
+2024-06-01 18:30:58,449 - Chardy J. - Status: ok (already scraped)
+2024-06-01 18:30:58,449 - Albot R. - Status: waiting
+2024-06-01 18:30:58,451 - Albot R. - Status: ok (already scraped)
+2024-06-01 18:30:58,451 - Sandgren T. - Status: waiting
+2024-06-01 18:30:58,452 - Sandgren T. - Status: ok (already scraped)
+2024-06-01 18:30:58,452 - Dodig I. - Status: waiting
+2024-06-01 18:30:58,455 - Dodig I. - Status: ok (already scraped)
+2024-06-01 18:30:58,455 - Gojowczyk P. - Status: waiting
+2024-06-01 18:30:58,457 - Gojowczyk P. - Status: ok (already scraped)
+2024-06-01 18:30:58,457 - Ivashka I. - Status: waiting
+2024-06-01 18:30:58,458 - Ivashka I. - Status: ok (already scraped)
+2024-06-01 18:30:58,458 - Zeballos H. - Status: waiting
+2024-06-01 18:30:58,460 - Zeballos H. - Status: ok (already scraped)
+2024-06-01 18:30:58,460 - Chung H. - Status: waiting
+2024-06-01 18:30:58,463 - Chung H. - Status: ok (already scraped)
+2024-06-01 18:30:58,463 - Kukushkin M. - Status: waiting
+2024-06-01 18:30:58,464 - Kukushkin M. - Status: ok (already scraped)
+2024-06-01 18:30:58,464 - Cerundolo J. - Status: waiting
+2024-06-01 18:30:58,466 - Cerundolo J. - Status: ok (already scraped)
+2024-06-01 18:30:58,466 - Golubev A. - Status: waiting
+2024-06-01 18:30:58,468 - Golubev A. - Status: ok (already scraped)
+2024-06-01 18:30:58,468 - Cressy M. - Status: waiting
+2024-06-01 18:30:58,470 - Cressy M. - Status: ok (already scraped)
+2024-06-01 18:30:58,470 - Jong J. - Status: waiting
+2024-06-01 18:30:58,472 - Jong J. - Status: ok (already scraped)
+2024-06-01 18:30:58,472 - Zeppieri G. - Status: waiting
+2024-06-01 18:30:58,474 - Zeppieri G. - Status: ok (already scraped)
+2024-06-01 18:30:58,474 - Ymer E. - Status: waiting
+2024-06-01 18:30:58,476 - Ymer E. - Status: ok (already scraped)
+2024-06-01 18:30:58,476 - Watanuki Y. - Status: waiting
+2024-06-01 18:30:58,477 - Watanuki Y. - Status: ok (already scraped)
+2024-06-01 18:30:58,477 - Vavassori A. - Status: waiting
+2024-06-01 18:30:58,479 - Vavassori A. - Status: ok (already scraped)
+2024-06-01 18:30:58,479 - Varillas J. - Status: waiting
+2024-06-01 18:30:58,482 - Varillas J. - Status: ok (already scraped)
+2024-06-01 18:30:58,482 - Rodionov J. - Status: waiting
+2024-06-01 18:30:58,483 - Rodionov J. - Status: ok (already scraped)
+2024-06-01 18:30:58,483 - Ritschard A. - Status: waiting
+2024-06-01 18:30:58,485 - Ritschard A. - Status: ok (already scraped)
+2024-06-01 18:30:58,485 - Agamenone F. - Status: waiting
+2024-06-01 18:30:58,487 - Agamenone F. - Status: ok (already scraped)
+2024-06-01 18:30:58,487 - Ajdukovic D. - Status: waiting
+2024-06-01 18:30:58,489 - Ajdukovic D. - Status: ok (already scraped)
+2024-06-01 18:30:58,489 - Assche L. - Status: waiting
+2024-06-01 18:30:58,490 - Assche L. - Status: ok (already scraped)
+2024-06-01 18:30:58,490 - Bergs Z. - Status: waiting
+2024-06-01 18:30:58,492 - Bergs Z. - Status: ok (already scraped)
+2024-06-01 18:30:58,492 - Duckworth J. - Status: waiting
+2024-06-01 18:30:58,495 - Duckworth J. - Status: ok (already scraped)
+2024-06-01 18:30:58,495 - Cachin P. - Status: waiting
+2024-06-01 18:30:58,496 - Cachin P. - Status: ok (already scraped)
+2024-06-01 18:30:58,496 - Tirante T. - Status: waiting
+2024-06-01 18:30:58,498 - Tirante T. - Status: ok (already scraped)
+2024-06-01 18:30:58,498 - Carabelli C. - Status: waiting
+2024-06-01 18:30:58,500 - Carabelli C. - Status: ok (already scraped)
+2024-06-01 18:30:58,500 - Barrere G. - Status: waiting
+2024-06-01 18:30:58,501 - Barrere G. - Status: ok (already scraped)
+2024-06-01 18:30:58,501 - Mmoh M. - Status: waiting
+2024-06-01 18:30:58,503 - Mmoh M. - Status: ok (already scraped)
+2024-06-01 18:30:58,503 - Vacherot V. - Status: waiting
+2024-06-01 18:30:58,505 - Vacherot V. - Status: ok (already scraped)
+2024-06-01 18:30:58,505 - Klein L. - Status: waiting
+2024-06-01 18:30:58,508 - Klein L. - Status: ok (already scraped)
+2024-06-01 18:30:58,508 - Bagnis F. - Status: waiting
+2024-06-01 18:30:58,511 - Bagnis F. - Status: ok (already scraped)
+2024-06-01 18:30:58,511 - Atmane T. - Status: waiting
+2024-06-01 18:30:58,513 - Atmane T. - Status: ok (already scraped)
+2024-06-01 18:30:58,513 - Mayot H. - Status: waiting
+2024-06-01 18:30:58,515 - Mayot H. - Status: ok (already scraped)
+2024-06-01 18:30:58,515 - Svajda Z. - Status: waiting
+2024-06-01 18:30:58,517 - Svajda Z. - Status: ok (already scraped)
+2024-06-01 18:30:58,517 - Napolitano S. - Status: waiting
+2024-06-01 18:30:58,519 - Napolitano S. - Status: ok (already scraped)
+2024-06-01 18:30:58,519 - Nava E. - Status: waiting
+2024-06-01 18:30:58,520 - Nava E. - Status: ok (already scraped)
+2024-06-01 18:30:58,520 - Kopriva V. - Status: waiting
+2024-06-01 18:30:58,522 - Kopriva V. - Status: ok (already scraped)
+2024-06-01 18:30:58,522 - Dzumhur D. - Status: waiting
+2024-06-01 18:30:58,525 - Dzumhur D. - Status: ok (already scraped)
+2024-06-01 18:30:58,525 - Alboran N. - Status: waiting
+2024-06-01 18:30:58,527 - Alboran N. - Status: ok (already scraped)
+2024-06-01 18:30:58,527 - Harris L. - Status: waiting
+2024-06-01 18:30:58,529 - Harris L. - Status: ok (already scraped)
+2024-06-01 18:30:58,529 - Droguet T. - Status: waiting
+2024-06-01 18:30:58,531 - Droguet T. - Status: ok (already scraped)
+2024-06-01 18:30:58,531 - Passaro F. - Status: waiting
+2024-06-01 18:30:58,532 - Passaro F. - Status: ok (already scraped)
+2024-06-01 18:30:58,532 - Medjedovic H. - Status: waiting
+2024-06-01 18:30:58,534 - Medjedovic H. - Status: ok (already scraped)
+2024-06-01 18:30:58,534 - Alves F. - Status: waiting
+2024-06-01 18:30:58,536 - Alves F. - Status: ok (already scraped)
+2024-06-01 18:30:58,536 - Gigante M. - Status: waiting
+2024-06-01 18:30:58,537 - Gigante M. - Status: ok (already scraped)
+2024-06-01 18:30:58,537 - Herbert P. - Status: waiting
+2024-06-01 18:30:58,538 - Herbert P. - Status: ok (already scraped)
+2024-06-01 18:30:58,539 - Stricker D. - Status: waiting
+2024-06-01 18:30:58,540 - Stricker D. - Status: ok (already scraped)
+2024-06-01 18:30:58,540 - Burruchaga R. - Status: waiting
+2024-06-01 18:30:58,542 - Burruchaga R. - Status: ok (already scraped)
+2024-06-01 18:30:58,542 - Kovalik J. - Status: waiting
+2024-06-01 18:30:58,544 - Kovalik J. - Status: ok (already scraped)
+2024-06-01 18:30:58,544 - Ruiz P. - Status: waiting
+2024-06-01 18:30:58,546 - Ruiz P. - Status: ok (already scraped)
+2024-06-01 18:30:58,546 - Hassan B. - Status: waiting
+2024-06-01 18:30:58,548 - Hassan B. - Status: ok (already scraped)
+2024-06-01 18:30:58,548 - Kypson P. - Status: waiting
+2024-06-01 18:30:58,549 - Kypson P. - Status: ok (already scraped)
+2024-06-01 18:30:58,549 - Riedi L. - Status: waiting
+2024-06-01 18:30:58,550 - Riedi L. - Status: ok (already scraped)
+2024-06-01 18:30:58,550 - Galarneau A. - Status: waiting
+2024-06-01 18:30:58,553 - Galarneau A. - Status: ok (already scraped)
+2024-06-01 18:30:58,553 - Piros Z. - Status: waiting
+2024-06-01 18:30:58,555 - Piros Z. - Status: ok (already scraped)
+2024-06-01 18:30:58,555 - Virtanen O. - Status: waiting
+2024-06-01 18:30:58,556 - Virtanen O. - Status: ok (already scraped)
+2024-06-01 18:30:58,557 - Vera T. - Status: waiting
+2024-06-01 18:30:58,558 - Vera T. - Status: ok (already scraped)
+2024-06-01 18:30:58,558 - Gojo B. - Status: waiting
+2024-06-01 18:30:58,560 - Gojo B. - Status: ok (already scraped)
+2024-06-01 18:30:58,560 - Pellegrino A. - Status: waiting
+2024-06-01 18:30:58,562 - Pellegrino A. - Status: ok (already scraped)
+2024-06-01 18:30:58,562 - Blanchet U. - Status: waiting
+2024-06-01 18:30:58,563 - Blanchet U. - Status: ok (already scraped)
+2024-06-01 18:30:58,563 - Kudla D. - Status: waiting
+2024-06-01 18:30:58,565 - Kudla D. - Status: ok (already scraped)
+2024-06-01 18:30:58,565 - Mochizuki S. - Status: waiting
+2024-06-01 18:30:58,566 - Mochizuki S. - Status: ok (already scraped)
+2024-06-01 18:30:58,566 - Molleker R. - Status: waiting
+2024-06-01 18:30:58,568 - Molleker R. - Status: ok (already scraped)
+2024-06-01 18:30:58,568 - Batalla O. - Status: waiting
+2024-06-01 18:30:58,569 - Batalla O. - Status: ok (already scraped)
+2024-06-01 18:30:58,569 - Pouille L. - Status: waiting
+2024-06-01 18:30:58,572 - Pouille L. - Status: ok (already scraped)
+2024-06-01 18:30:58,572 - Diallo G. - Status: waiting
+2024-06-01 18:30:58,573 - Diallo G. - Status: ok (already scraped)
+2024-06-01 18:30:58,573 - Yevseyev D. - Status: waiting
+2024-06-01 18:30:58,575 - Yevseyev D. - Status: ok (already scraped)
+2024-06-01 18:30:58,575 - Dellien H. - Status: waiting
+2024-06-01 18:30:58,576 - Dellien H. - Status: ok (already scraped)
+2024-06-01 18:30:58,577 - Trungelliti M. - Status: waiting
+2024-06-01 18:30:58,578 - Trungelliti M. - Status: ok (already scraped)
+2024-06-01 18:30:58,578 - Zhukayev B. - Status: waiting
+2024-06-01 18:30:58,580 - Zhukayev B. - Status: ok (already scraped)
+2024-06-01 18:30:58,580 - Bonzi B. - Status: waiting
+2024-06-01 18:30:58,581 - Bonzi B. - Status: ok (already scraped)
+2024-06-01 18:30:58,581 - Bellucci M. - Status: waiting
+2024-06-01 18:30:58,582 - Bellucci M. - Status: ok (already scraped)
+2024-06-01 18:30:58,582 - Heide G. - Status: waiting
+2024-06-01 18:30:58,584 - Heide G. - Status: ok (already scraped)
+2024-06-01 18:30:58,584 - Martineau M. - Status: waiting
+2024-06-01 18:30:58,586 - Martineau M. - Status: ok (already scraped)
+2024-06-01 18:30:58,586 - Damm M. - Status: waiting
+2024-06-01 18:30:58,588 - Damm M. - Status: ok (already scraped)
+2024-06-01 18:30:58,588 - Choinski J. - Status: waiting
+2024-06-01 18:30:58,589 - Choinski J. - Status: ok (already scraped)
+2024-06-01 18:30:58,589 - Wong C. - Status: waiting
+2024-06-01 18:30:58,591 - Wong C. - Status: ok (already scraped)
+2024-06-01 18:30:58,591 - Faria J. - Status: waiting
+2024-06-01 18:30:58,593 - Faria J. - Status: ok (already scraped)
+2024-06-01 18:30:58,593 - Grenier H. - Status: waiting
+2024-06-01 18:30:58,595 - Grenier H. - Status: ok (already scraped)
+2024-06-01 18:30:58,595 - Schoolkate T. - Status: waiting
+2024-06-01 18:30:58,596 - Schoolkate T. - Status: ok (already scraped)
+2024-06-01 18:30:58,596 - Olivieri G. - Status: waiting
+2024-06-01 18:30:58,598 - Olivieri G. - Status: ok (already scraped)
+2024-06-01 18:30:58,598 - Bu Y. - Status: waiting
+2024-06-01 18:30:58,599 - Bu Y. - Status: ok (already scraped)
+2024-06-01 18:30:58,599 - Canas A. - Status: waiting
+2024-06-01 18:30:58,600 - Canas A. - Status: ok (already scraped)
+2024-06-01 18:30:58,600 - Hong S. - Status: waiting
+2024-06-01 18:30:58,602 - Hong S. - Status: ok (already scraped)
+2024-06-01 18:30:58,602 - Svrcina D. - Status: waiting
+2024-06-01 18:30:58,605 - Svrcina D. - Status: ok (already scraped)
+2024-06-01 18:30:58,605 - Hardt N. - Status: waiting
+2024-06-01 18:30:58,606 - Hardt N. - Status: ok (already scraped)
+2024-06-01 18:30:58,606 - Sachko V. - Status: waiting
+2024-06-01 18:30:58,608 - Sachko V. - Status: ok (already scraped)
+2024-06-01 18:30:58,608 - Loore J. - Status: waiting
+2024-06-01 18:30:58,609 - Loore J. - Status: ok (already scraped)
+2024-06-01 18:30:58,609 - Skatov T. - Status: waiting
+2024-06-01 18:30:58,611 - Skatov T. - Status: ok (already scraped)
+2024-06-01 18:30:58,611 - Polmans M. - Status: waiting
+2024-06-01 18:30:58,613 - Polmans M. - Status: ok (already scraped)
+2024-06-01 18:30:58,613 - Harris B. - Status: waiting
+2024-06-01 18:30:58,615 - Harris B. - Status: ok (already scraped)
+2024-06-01 18:30:58,615 - Travaglia S. - Status: waiting
+2024-06-01 18:30:58,616 - Travaglia S. - Status: ok (already scraped)
+2024-06-01 18:30:58,616 - Rocha H. - Status: waiting
+2024-06-01 18:30:58,618 - Rocha H. - Status: ok (already scraped)
+2024-06-01 18:30:58,618 - Prizmic D. - Status: waiting
+2024-06-01 18:30:58,619 - Prizmic D. - Status: ok (already scraped)
+2024-06-01 18:30:58,619 - Maestrelli F. - Status: waiting
+2024-06-01 18:30:58,621 - Maestrelli F. - Status: ok (already scraped)
+2024-06-01 18:30:58,621 - Jasika O. - Status: waiting
+2024-06-01 18:30:58,623 - Jasika O. - Status: ok (already scraped)
+2024-06-01 18:30:58,623 - Novak D. - Status: waiting
+2024-06-01 18:30:58,624 - Novak D. - Status: ok (already scraped)
+2024-06-01 18:30:58,625 - Couacaud E. - Status: waiting
+2024-06-01 18:30:58,626 - Couacaud E. - Status: ok (already scraped)
+2024-06-01 18:30:58,626 - Kubler J. - Status: waiting
+2024-06-01 18:30:58,629 - Kubler J. - Status: ok (already scraped)
+2024-06-01 18:30:58,629 - Uchiyama Y. - Status: waiting
+2024-06-01 18:30:58,630 - Uchiyama Y. - Status: ok (already scraped)
+2024-06-01 18:30:58,630 - Tu L. - Status: waiting
+2024-06-01 18:30:58,632 - Tu L. - Status: ok (already scraped)
+2024-06-01 18:30:58,632 - Molcan A. - Status: waiting
+2024-06-01 18:30:58,633 - Molcan A. - Status: ok (already scraped)
+2024-06-01 18:30:58,633 - Lajal M. - Status: waiting
+2024-06-01 18:30:58,635 - Lajal M. - Status: ok (already scraped)
+2024-06-01 18:30:58,635 - Hemery C. - Status: waiting
+2024-06-01 18:30:58,636 - Hemery C. - Status: ok (already scraped)
+2024-06-01 18:30:58,636 - Peniston R. - Status: waiting
+2024-06-01 18:30:58,639 - Peniston R. - Status: ok (already scraped)
+2024-06-01 18:30:58,639 - Marchenko I. - Status: waiting
+2024-06-01 18:30:58,641 - Marchenko I. - Status: ok (already scraped)
+2024-06-01 18:30:58,641 - Janvier M. - Status: waiting
+2024-06-01 18:30:58,643 - Janvier M. - Status: ok (already scraped)
+2024-06-01 18:30:58,643 - Miralles B. - Status: waiting
+2024-06-01 18:30:58,644 - Miralles B. - Status: ok (already scraped)
+2024-06-01 18:30:58,644 - Fatic N. - Status: waiting
+2024-06-01 18:30:58,646 - Fatic N. - Status: ok (already scraped)
+2024-06-01 18:30:58,646 - Squire H. - Status: waiting
+2024-06-01 18:30:58,648 - Squire H. - Status: ok (already scraped)
+2024-06-01 18:30:58,648 - Dellien M. - Status: waiting
+2024-06-01 18:30:58,649 - Dellien M. - Status: ok (already scraped)
+2024-06-01 18:30:58,649 - Shimabukuro S. - Status: waiting
+2024-06-01 18:30:58,650 - Shimabukuro S. - Status: ok (already scraped)
+2024-06-01 18:30:58,650 - Guinard M. - Status: waiting
+2024-06-01 18:30:58,653 - Guinard M. - Status: ok (already scraped)
+2024-06-01 18:30:58,653 - Ficovich J. - Status: waiting
+2024-06-01 18:30:58,654 - Ficovich J. - Status: ok (already scraped)
+2024-06-01 18:30:58,654 - Neumayer L. - Status: waiting
+2024-06-01 18:30:58,656 - Neumayer L. - Status: ok (already scraped)
+2024-06-01 18:30:58,656 - Hsu Y. - Status: waiting
+2024-06-01 18:30:58,657 - Hsu Y. - Status: ok (already scraped)
+2024-06-01 18:30:58,657 - Fonseca J. - Status: waiting
+2024-06-01 18:30:58,659 - Fonseca J. - Status: ok (already scraped)
+2024-06-01 18:30:58,659 - Escoffier A. - Status: waiting
+2024-06-01 18:30:58,661 - Escoffier A. - Status: ok (already scraped)
+2024-06-01 18:30:58,661 - Dougaz A. - Status: waiting
+2024-06-01 18:30:58,662 - Dougaz A. - Status: ok (already scraped)
+2024-06-01 18:30:58,662 - Andreev A. - Status: waiting
+2024-06-01 18:30:58,664 - Andreev A. - Status: ok (already scraped)
+2024-06-01 18:30:58,664 - Rincon D. - Status: waiting
+2024-06-01 18:30:58,666 - Rincon D. - Status: ok (already scraped)
+2024-06-01 18:30:58,666 - Sweeny D. - Status: waiting
+2024-06-01 18:30:58,667 - Sweeny D. - Status: ok (already scraped)
+2024-06-01 18:30:58,667 - Sekulic P. - Status: waiting
+2024-06-01 18:30:58,669 - Sekulic P. - Status: ok (already scraped)
+2024-06-01 18:30:58,670 - Bolt A. - Status: waiting
+2024-06-01 18:30:58,671 - Bolt A. - Status: ok (already scraped)
+2024-06-01 18:30:58,671 - Brouwer G. - Status: waiting
+2024-06-01 18:30:58,672 - Brouwer G. - Status: ok (already scraped)
+2024-06-01 18:30:58,672 - Misolic F. - Status: waiting
+2024-06-01 18:30:58,674 - Misolic F. - Status: ok (already scraped)
+2024-06-01 18:30:58,674 - Popko D. - Status: waiting
+2024-06-01 18:30:58,675 - Popko D. - Status: ok (already scraped)
+2024-06-01 18:30:58,675 - Taverna S. - Status: waiting
+2024-06-01 18:30:58,678 - Taverna S. - Status: ok (already scraped)
+2024-06-01 18:30:58,678 - Fery A. - Status: waiting
+2024-06-01 18:30:58,679 - Fery A. - Status: ok (already scraped)
+2024-06-01 18:30:58,679 - Tomic B. - Status: waiting
+2024-06-01 18:30:58,680 - Tomic B. - Status: ok (already scraped)
+2024-06-01 18:30:58,680 - Shelbayh A. - Status: waiting
+2024-06-01 18:30:58,683 - Shelbayh A. - Status: ok (already scraped)
+2024-06-01 18:30:58,683 - Kuzmanov D. - Status: waiting
+2024-06-01 18:30:58,684 - Kuzmanov D. - Status: ok (already scraped)
+2024-06-01 18:30:58,684 - Cosano J. - Status: waiting
+2024-06-01 18:30:58,685 - Cosano J. - Status: ok (already scraped)
+2024-06-01 18:30:58,685 - Krueger M. - Status: waiting
+2024-06-01 18:30:58,688 - Krueger M. - Status: ok (already scraped)
+2024-06-01 18:30:58,688 - Quinn E. - Status: waiting
+2024-06-01 18:30:58,689 - Quinn E. - Status: ok (already scraped)
+2024-06-01 18:30:58,689 - Tseng C. - Status: waiting
+2024-06-01 18:30:58,690 - Tseng C. - Status: ok (already scraped)
+2024-06-01 18:30:58,690 - Kachmazov A. - Status: waiting
+2024-06-01 18:30:58,693 - Kachmazov A. - Status: ok (already scraped)
+2024-06-01 18:30:58,693 - Izquierdo N. - Status: waiting
+2024-06-01 18:30:58,694 - Izquierdo N. - Status: ok (already scraped)
+2024-06-01 18:30:58,694 - Habib H. - Status: waiting
+2024-06-01 18:30:58,696 - Habib H. - Status: ok (already scraped)
+2024-06-01 18:30:58,696 - Kirkin E. - Status: waiting
+2024-06-01 18:30:58,698 - Kirkin E. - Status: ok (already scraped)
+2024-06-01 18:30:58,698 - Johnson S. - Status: waiting
+2024-06-01 18:30:58,701 - Johnson S. - Status: ok (already scraped)
+2024-06-01 18:30:58,701 - Kasnikowski M. - Status: waiting
+2024-06-01 18:30:58,704 - Kasnikowski M. - Status: ok (already scraped)
+2024-06-01 18:30:58,704 - Shimizu Y. - Status: waiting
+2024-06-01 18:30:58,709 - Shimizu Y. - Status: ok (already scraped)
+2024-06-01 18:30:58,709 - Mejia N. - Status: waiting
+2024-06-01 18:30:58,712 - Mejia N. - Status: ok (already scraped)
+2024-06-01 18:30:58,712 - Gakhov I. - Status: waiting
+2024-06-01 18:30:58,714 - Gakhov I. - Status: ok (already scraped)
+2024-06-01 18:30:58,714 - Gerasimov E. - Status: waiting
+2024-06-01 18:30:58,716 - Gerasimov E. - Status: ok (already scraped)
+2024-06-01 18:30:58,716 - Moller E. - Status: waiting
+2024-06-01 18:30:58,719 - Moller E. - Status: ok (already scraped)
+2024-06-01 18:30:58,719 - Kwiatkowski T. - Status: waiting
+2024-06-01 18:30:58,721 - Kwiatkowski T. - Status: ok (already scraped)
+2024-06-01 18:30:58,721 - Coppejans K. - Status: waiting
+2024-06-01 18:30:58,722 - Coppejans K. - Status: ok (already scraped)
+2024-06-01 18:30:58,722 - Wu T. - Status: waiting
+2024-06-01 18:30:58,724 - Wu T. - Status: ok (already scraped)
+2024-06-01 18:30:58,724 - Olivo R. - Status: waiting
+2024-06-01 18:30:58,726 - Olivo R. - Status: ok (already scraped)
+2024-06-01 18:30:58,726 - Bueno G. - Status: waiting
+2024-06-01 18:30:58,728 - Bueno G. - Status: ok (already scraped)
+2024-06-01 18:30:58,728 - Blancaneaux G. - Status: waiting
+2024-06-01 18:30:58,729 - Blancaneaux G. - Status: ok (already scraped)
+2024-06-01 18:30:58,730 - Gaubas V. - Status: waiting
+2024-06-01 18:30:58,731 - Gaubas V. - Status: ok (already scraped)
+2024-06-01 18:30:58,731 - Meza A. - Status: waiting
+2024-06-01 18:30:58,732 - Meza A. - Status: ok (already scraped)
+2024-06-01 18:30:58,732 - Chidekh C. - Status: waiting
+2024-06-01 18:30:58,734 - Chidekh C. - Status: ok (already scraped)
+2024-06-01 18:30:58,734 - Lamasine T. - Status: waiting
+2024-06-01 18:30:58,736 - Lamasine T. - Status: ok (already scraped)
+2024-06-01 18:30:58,736 - Jianu F. - Status: waiting
+2024-06-01 18:30:58,738 - Jianu F. - Status: ok (already scraped)
+2024-06-01 18:30:58,738 - Moeller M. - Status: waiting
+2024-06-01 18:30:58,739 - Moeller M. - Status: ok (already scraped)
+2024-06-01 18:30:58,739 - Sousa J. - Status: waiting
+2024-06-01 18:30:58,741 - Sousa J. - Status: ok (already scraped)
+2024-06-01 18:30:58,741 - Kolar Z. - Status: waiting
+2024-06-01 18:30:58,743 - Kolar Z. - Status: ok (already scraped)
+2024-06-01 18:30:58,743 - Majchrzak K. - Status: waiting
+2024-06-01 18:30:58,745 - Majchrzak K. - Status: ok (already scraped)
+2024-06-01 18:30:58,745 - Vallejo A. - Status: waiting
+2024-06-01 18:30:58,746 - Vallejo A. - Status: ok (already scraped)
+2024-06-01 18:30:58,746 - Collarini A. - Status: waiting
+2024-06-01 18:30:58,748 - Collarini A. - Status: ok (already scraped)
+2024-06-01 18:30:58,748 - Bourgue M. - Status: waiting
+2024-06-01 18:30:58,750 - Bourgue M. - Status: ok (already scraped)
+2024-06-01 18:30:58,750 - Mager G. - Status: waiting
+2024-06-01 18:30:58,752 - Mager G. - Status: ok (already scraped)
+2024-06-01 18:30:58,752 - Masur D. - Status: waiting
+2024-06-01 18:30:58,754 - Masur D. - Status: ok (already scraped)
+2024-06-01 18:30:58,754 - Vrbensky M. - Status: waiting
+2024-06-01 18:30:58,756 - Vrbensky M. - Status: ok (already scraped)
+2024-06-01 18:30:58,756 - Blockx A. - Status: waiting
+2024-06-01 18:30:58,758 - Blockx A. - Status: ok (already scraped)
+2024-06-01 18:30:58,758 - Holt B. - Status: waiting
+2024-06-01 18:30:58,759 - Holt B. - Status: ok (already scraped)
+2024-06-01 18:30:58,759 - Jung J. - Status: waiting
+2024-06-01 18:30:58,760 - Jung J. - Status: ok (already scraped)
+2024-06-01 18:30:58,760 - Andreozzi G. - Status: waiting
+2024-06-01 18:30:58,762 - Andreozzi G. - Status: ok (already scraped)
+2024-06-01 18:30:58,762 - Sakamoto P. - Status: waiting
+2024-06-01 18:30:58,764 - Sakamoto P. - Status: ok (already scraped)
+2024-06-01 18:30:58,764 - Holmgren A. - Status: waiting
+2024-06-01 18:30:58,765 - Holmgren A. - Status: ok (already scraped)
+2024-06-01 18:30:58,765 - Bicknell B. - Status: waiting
+2024-06-01 18:30:58,767 - Bicknell B. - Status: ok (already scraped)
+2024-06-01 18:30:58,767 - Berankis R. - Status: waiting
+2024-06-01 18:30:58,769 - Berankis R. - Status: ok (already scraped)
+2024-06-01 18:30:58,769 - Jubb P. - Status: waiting
+2024-06-01 18:30:58,771 - Jubb P. - Status: ok (already scraped)
+2024-06-01 18:30:58,771 - Taberner C. - Status: waiting
+2024-06-01 18:30:58,773 - Taberner C. - Status: ok (already scraped)
+2024-06-01 18:30:58,773 - Gomez F. - Status: waiting
+2024-06-01 18:30:58,775 - Gomez F. - Status: ok (already scraped)
+2024-06-01 18:30:58,775 - Fanselow S. - Status: waiting
+2024-06-01 18:30:58,776 - Fanselow S. - Status: ok (already scraped)
+2024-06-01 18:30:58,776 - Landaluce M. - Status: waiting
+2024-06-01 18:30:58,778 - Landaluce M. - Status: ok (already scraped)
+2024-06-01 18:30:58,778 - Bai Y. - Status: waiting
+2024-06-01 18:30:58,780 - Bai Y. - Status: ok (already scraped)
+2024-06-01 18:30:58,780 - Noguchi R. - Status: waiting
+2024-06-01 18:30:58,782 - Noguchi R. - Status: ok (already scraped)
+2024-06-01 18:30:58,782 - Brancaccio R. - Status: waiting
+2024-06-01 18:30:58,784 - Brancaccio R. - Status: ok (already scraped)
+2024-06-01 18:30:58,784 - Saville L. - Status: waiting
+2024-06-01 18:30:58,785 - Saville L. - Status: ok (already scraped)
+2024-06-01 18:30:58,785 - Andrade A. - Status: waiting
+2024-06-01 18:30:58,788 - Andrade A. - Status: ok (already scraped)
+2024-06-01 18:30:58,788 - Sanchis D. - Status: waiting
+2024-06-01 18:30:58,790 - Sanchis D. - Status: ok (already scraped)
+2024-06-01 18:30:58,790 - Geerts M. - Status: waiting
+2024-06-01 18:30:58,792 - Geerts M. - Status: ok (already scraped)
+2024-06-01 18:30:58,792 - Sultanov K. - Status: waiting
+2024-06-01 18:30:58,794 - Sultanov K. - Status: ok (already scraped)
+2024-06-01 18:30:58,795 - Ramanathan R. - Status: waiting
+2024-06-01 18:30:58,796 - Ramanathan R. - Status: ok (already scraped)
+2024-06-01 18:30:58,796 - Almeida M. - Status: waiting
+2024-06-01 18:30:58,799 - Almeida M. - Status: ok (already scraped)
+2024-06-01 18:30:58,799 - Casanova H. - Status: waiting
+2024-06-01 18:30:58,800 - Casanova H. - Status: ok (already scraped)
+2024-06-01 18:30:58,802 - Mena F. - Status: waiting
+2024-06-01 18:30:58,803 - Mena F. - Status: ok (already scraped)
+2024-06-01 18:30:58,804 - Moriya H. - Status: waiting
+2024-06-01 18:30:58,805 - Moriya H. - Status: ok (already scraped)
+2024-06-01 18:30:58,805 - Echargui M. - Status: waiting
+2024-06-01 18:30:58,808 - Echargui M. - Status: ok (already scraped)
+2024-06-01 18:30:58,808 - Buse I. - Status: waiting
+2024-06-01 18:30:58,809 - Buse I. - Status: ok (already scraped)
+2024-06-01 18:30:58,809 - Bellier A. - Status: waiting
+2024-06-01 18:30:58,812 - Bellier A. - Status: ok (already scraped)
+2024-06-01 18:30:58,812 - Mccabe J. - Status: waiting
+2024-06-01 18:30:58,813 - Mccabe J. - Status: ok (already scraped)
+2024-06-01 18:30:58,814 - Naw H. - Status: waiting
+2024-06-01 18:30:58,815 - Naw H. - Status: ok (already scraped)
+2024-06-01 18:30:58,815 - Bonadio R. - Status: waiting
+2024-06-01 18:30:58,817 - Bonadio R. - Status: ok (already scraped)
+2024-06-01 18:30:58,817 - Forejtek J. - Status: waiting
+2024-06-01 18:30:58,819 - Forejtek J. - Status: ok (already scraped)
+2024-06-01 18:30:58,819 - Nishikori K. - Status: waiting
+2024-06-01 18:30:58,820 - Nishikori K. - Status: ok (already scraped)
+2024-06-01 18:30:58,820 - Luz O. - Status: waiting
+2024-06-01 18:30:58,823 - Luz O. - Status: ok (already scraped)
+2024-06-01 18:30:58,823 - Lock B. - Status: waiting
+2024-06-01 18:30:58,826 - Lock B. - Status: ok (already scraped)
+2024-06-01 18:30:58,826 - Mott B. - Status: waiting
+2024-06-01 18:30:58,829 - Mott B. - Status: ok (already scraped)
+2024-06-01 18:30:58,829 - Clarke J. - Status: waiting
+2024-06-01 18:30:58,830 - Clarke J. - Status: ok (already scraped)
+2024-06-01 18:30:58,830 - Serdarusic N. - Status: waiting
+2024-06-01 18:30:58,832 - Serdarusic N. - Status: ok (already scraped)
+2024-06-01 18:30:58,832 - Elias G. - Status: waiting
+2024-06-01 18:30:58,835 - Elias G. - Status: ok (already scraped)
+2024-06-01 18:30:58,835 - Michalski D. - Status: waiting
+2024-06-01 18:30:58,836 - Michalski D. - Status: ok (already scraped)
+2024-06-01 18:30:58,837 - Cretu C. - Status: waiting
+2024-06-01 18:30:58,839 - Cretu C. - Status: ok (already scraped)
+2024-06-01 18:30:58,839 - Giannessi A. - Status: waiting
+2024-06-01 18:30:58,841 - Giannessi A. - Status: ok (already scraped)
+2024-06-01 18:30:58,841 - Oliel Y. - Status: waiting
+2024-06-01 18:30:58,843 - Oliel Y. - Status: ok (already scraped)
+2024-06-01 18:30:58,843 - Safwat M. - Status: waiting
+2024-06-01 18:30:58,845 - Safwat M. - Status: ok (already scraped)
+2024-06-01 18:30:58,845 - Delbonis F. - Status: waiting
+2024-06-01 18:30:58,847 - Delbonis F. - Status: ok (already scraped)
+2024-06-01 18:30:58,847 - Giustino L. - Status: waiting
+2024-06-01 18:30:58,850 - Giustino L. - Status: ok (already scraped)
+2024-06-01 18:30:58,850 - Kumar O. - Status: waiting
+2024-06-01 18:30:58,852 - Kumar O. - Status: ok (already scraped)
+2024-06-01 18:30:58,852 - Wessels L. - Status: waiting
+2024-06-01 18:30:58,854 - Wessels L. - Status: ok (already scraped)
+2024-06-01 18:30:58,854 - Silva D. - Status: waiting
+2024-06-01 18:30:58,856 - Silva D. - Status: ok (already scraped)
+2024-06-01 18:30:58,856 - Ionel N. - Status: waiting
+2024-06-01 18:30:58,858 - Ionel N. - Status: ok (already scraped)
+2024-06-01 18:30:58,858 - Copil M. - Status: waiting
+2024-06-01 18:30:58,860 - Copil M. - Status: ok (already scraped)
+2024-06-01 18:30:58,860 - Silva F. - Status: waiting
+2024-06-01 18:30:58,862 - Silva F. - Status: ok (already scraped)
+2024-06-01 18:30:58,862 - Erel Y. - Status: waiting
+2024-06-01 18:30:58,864 - Erel Y. - Status: ok (already scraped)
+2024-06-01 18:30:58,864 - Sakellaridis S. - Status: waiting
+2024-06-01 18:30:58,866 - Sakellaridis S. - Status: ok (already scraped)
+2024-06-01 18:30:58,866 - Valkusz M. - Status: waiting
+2024-06-01 18:30:58,867 - Valkusz M. - Status: ok (already scraped)
+2024-06-01 18:30:58,868 - Cui J. - Status: waiting
+2024-06-01 18:30:58,869 - Cui J. - Status: ok (already scraped)
+2024-06-01 18:30:58,869 - Celikbilek A. - Status: waiting
+2024-06-01 18:30:58,870 - Celikbilek A. - Status: ok (already scraped)
+2024-06-01 18:30:58,872 - Busta P. - Status: waiting
+2024-06-01 18:30:58,873 - Busta P. - Status: ok (already scraped)
+2024-06-01 18:30:58,873 - Basilashvili N. - Status: waiting
+2024-06-01 18:30:58,875 - Basilashvili N. - Status: ok (already scraped)
+2024-06-01 18:30:58,875 - Cilic M. - Status: waiting
+2024-06-01 18:30:58,877 - Cilic M. - Status: ok (already scraped)
+2024-06-01 18:30:58,877 - Krajinovic F. - Status: waiting
+2024-06-01 18:30:58,878 - Krajinovic F. - Status: ok (already scraped)
+2024-06-01 18:30:58,878 - Millman J. - Status: waiting
+2024-06-01 18:30:58,880 - Millman J. - Status: ok (already scraped)
+2024-06-01 18:30:58,880 - Otte O. - Status: waiting
+2024-06-01 18:30:58,882 - Otte O. - Status: ok (already scraped)
+2024-06-01 18:30:58,882 - Laaksonen H. - Status: waiting
+2024-06-01 18:30:58,884 - Laaksonen H. - Status: ok (already scraped)
+2024-06-01 18:30:58,884 - Anderson K. - Status: waiting
+2024-06-01 18:30:58,886 - Anderson K. - Status: ok (already scraped)
+2024-06-01 18:30:58,886 - Cecchinato M. - Status: waiting
+2024-06-01 18:30:58,888 - Cecchinato M. - Status: ok (already scraped)
+2024-06-01 18:30:58,888 - Cuevas P. - Status: waiting
+2024-06-01 18:30:58,889 - Cuevas P. - Status: ok (already scraped)
+2024-06-01 18:30:58,889 - Gombos N. - Status: waiting
+2024-06-01 18:30:58,892 - Gombos N. - Status: ok (already scraped)
+2024-06-01 18:30:58,892 - Lopez F. - Status: waiting
+2024-06-01 18:30:58,893 - Lopez F. - Status: ok (already scraped)
+2024-06-01 18:30:58,893 - Kozlov S. - Status: waiting
+2024-06-01 18:30:58,895 - Kozlov S. - Status: ok (already scraped)
+2024-06-01 18:30:58,895 - Verdasco F. - Status: waiting
+2024-06-01 18:30:58,897 - Verdasco F. - Status: ok (already scraped)
+2024-06-01 18:30:58,897 - Moraing M. - Status: waiting
+2024-06-01 18:30:58,899 - Moraing M. - Status: ok (already scraped)
+2024-06-01 18:30:58,899 - Milojevic N. - Status: waiting
+2024-06-01 18:30:58,901 - Milojevic N. - Status: ok (already scraped)
+2024-06-01 18:30:58,901 - Londero J. - Status: waiting
+2024-06-01 18:30:58,903 - Londero J. - Status: ok (already scraped)
+2024-06-01 18:30:58,903 - Pospisil V. - Status: waiting
+2024-06-01 18:30:58,905 - Pospisil V. - Status: ok (already scraped)
+2024-06-01 18:30:58,905 - Escobedo E. - Status: waiting
+2024-06-01 18:30:58,907 - Escobedo E. - Status: ok (already scraped)
+2024-06-01 18:30:58,907 - Gomez E. - Status: waiting
+2024-06-01 18:30:58,909 - Gomez E. - Status: ok (already scraped)
+2024-06-01 18:30:58,909 - Caruso S. - Status: waiting
+2024-06-01 18:30:58,912 - Caruso S. - Status: ok (already scraped)
+2024-06-01 18:30:58,912 - Fratangelo B. - Status: waiting
+2024-06-01 18:30:58,914 - Fratangelo B. - Status: ok (already scraped)
+2024-06-01 18:30:58,914 - Martinez M. - Status: waiting
+2024-06-01 18:31:28,827 - Martinez M. - Status: error ('NoneType' object has no attribute 'text')
+2024-06-01 18:31:32,887 - Fabbiano T. - Status: waiting
+2024-06-01 18:32:01,822 - Fabbiano T. - Status: error ('NoneType' object has no attribute 'text')
+2024-06-01 18:32:05,897 - Rijthoven T. - Status: waiting
+2024-06-01 18:32:33,771 - Rijthoven T. - Status: error ('NoneType' object has no attribute 'text')
+2024-06-01 18:32:37,880 - Rola B. - Status: waiting
+2024-06-01 18:33:09,946 - Rola B. - Status: ok (written)
+2024-06-01 18:33:09,947 - Moroni G. - Status: waiting
+2024-06-01 18:33:41,184 - Moroni G. - Status: ok (written)
+2024-06-01 18:33:41,184 - Gaio F. - Status: waiting
+2024-06-01 18:34:12,502 - Gaio F. - Status: ok (written)
+2024-06-01 18:34:12,502 - Ilkel C. - Status: waiting
+2024-06-01 18:34:43,783 - Ilkel C. - Status: ok (written)
+2024-06-01 18:34:43,783 - Horansky F. - Status: waiting
+2024-06-01 18:35:12,760 - Horansky F. - Status: error ('NoneType' object has no attribute 'text')
+2024-06-01 18:35:16,847 - Kicker N. - Status: waiting
+2024-06-01 18:35:53,376 - Kicker N. - Status: ok (written)
+2024-06-01 18:35:53,376 - Donskoy E. - Status: waiting
+2024-06-01 18:36:25,127 - Donskoy E. - Status: error ('int' object is not subscriptable)
+2024-06-01 18:36:25,127 - Lacko L. - Status: waiting
+2024-06-01 18:36:53,940 - Lacko L. - Status: error ('NoneType' object has no attribute 'text')
+2024-06-01 18:36:58,047 - Zuk K. - Status: waiting
+2024-06-01 18:37:29,194 - Zuk K. - Status: ok (written)
+2024-06-01 18:37:29,194 - Hoang A. - Status: waiting
+2024-06-01 18:37:59,916 - Hoang A. - Status: ok (written)
+2024-06-01 18:37:59,916 - Stebe C. - Status: waiting
+2024-06-01 18:38:28,922 - Stebe C. - Status: error ('NoneType' object has no attribute 'text')
+2024-06-01 18:38:33,018 - Basic M. - Status: waiting
+2024-06-01 18:39:05,959 - Basic M. - Status: ok (written)
+2024-06-01 18:39:05,959 - Tsonga J. - Status: waiting
+2024-06-01 18:39:34,834 - Tsonga J. - Status: error ('NoneType' object has no attribute 'text')
+2024-06-01 18:39:38,927 - Sugita Y. - Status: waiting
+2024-06-01 18:40:07,035 - Sugita Y. - Status: error ('NoneType' object has no attribute 'text')
+2024-06-01 18:40:11,099 - Kuznetsov A. - Status: waiting
+2024-06-01 18:40:44,059 - Kuznetsov A. - Status: ok (written)
+2024-06-01 18:40:44,059 - Gunneswaran P. - Status: waiting
+2024-06-01 18:41:12,127 - Gunneswaran P. - Status: error ('NoneType' object has no attribute 'text')
+2024-06-01 18:41:16,230 - Schnur B. - Status: waiting
+2024-06-01 18:41:47,522 - Schnur B. - Status: ok (written)
+2024-06-01 18:41:47,522 - Stakhovsky S. - Status: waiting
+2024-06-01 18:42:15,401 - Stakhovsky S. - Status: error ('NoneType' object has no attribute 'text')
+2024-06-01 18:42:19,465 - Arnaboldi A. - Status: waiting
+2024-06-01 18:42:51,627 - Arnaboldi A. - Status: ok (written)
+2024-06-01 18:42:51,627 - Balazs A. - Status: waiting
+2024-06-01 18:43:24,081 - Balazs A. - Status: ok (written)
+2024-06-01 18:43:24,081 - Kuhn N. - Status: waiting
+2024-06-01 18:43:57,456 - Kuhn N. - Status: ok (written)
+2024-06-01 18:43:57,456 - Menezes J. - Status: waiting
+2024-06-01 18:44:27,972 - Menezes J. - Status: ok (written)
+2024-06-01 18:44:27,972 - Soeda G. - Status: waiting
+2024-06-01 18:44:57,194 - Soeda G. - Status: error ('NoneType' object has no attribute 'text')
+2024-06-01 18:45:01,298 - Edmund K. - Status: waiting
+2024-06-01 18:45:32,967 - Edmund K. - Status: ok (written)
+2024-06-01 18:45:32,967 - Lama G. - Status: waiting
+2024-06-01 18:46:04,835 - Lama G. - Status: ok (written)
+2024-06-01 18:46:04,835 - Marcondes I. - Status: waiting
+2024-06-01 18:46:32,392 - Marcondes I. - Status: error ('NoneType' object has no attribute 'text')
+2024-06-01 18:46:36,482 - Troicki V. - Status: waiting
+2024-06-01 18:47:05,006 - Troicki V. - Status: error ('NoneType' object has no attribute 'text')
+2024-06-01 18:47:09,072 - Haase R. - Status: waiting
+2024-06-01 18:47:36,607 - Haase R. - Status: error ('NoneType' object has no attribute 'text')
+2024-06-01 18:47:40,682 - Oliveira G. - Status: waiting
+2024-06-01 18:48:08,472 - Oliveira G. - Status: error ('NoneType' object has no attribute 'find_all')
+2024-06-01 18:48:12,528 - Sousa P. - Status: waiting
+2024-06-01 18:48:43,572 - Sousa P. - Status: ok (written)
+2024-06-01 18:48:43,572 - Melzer G. - Status: waiting
+2024-06-01 18:49:15,449 - Melzer G. - Status: ok (written)
+2024-06-01 18:49:15,450 - Rosol L. - Status: waiting
+2024-06-01 18:49:49,153 - Rosol L. - Status: ok (written)
+2024-06-01 18:49:49,153 - Uchida K. - Status: waiting
+2024-06-01 18:50:22,111 - Uchida K. - Status: ok (written)
+2024-06-01 18:50:22,111 - Karlovskiy E. - Status: waiting
+2024-06-01 18:50:55,309 - Karlovskiy E. - Status: ok (written)
+2024-06-01 18:50:55,309 - Lenz J. - Status: waiting
+2024-06-01 18:52:58,871 - Djokovic N. - Status: waiting
+2024-06-01 18:52:58,874 - Djokovic N. - Status: ok (already scraped)
+2024-06-01 18:52:58,874 - Sinner J. - Status: waiting
+2024-06-01 18:52:58,876 - Sinner J. - Status: ok (already scraped)
+2024-06-01 18:52:58,876 - Alcaraz C. - Status: waiting
+2024-06-01 18:52:58,878 - Alcaraz C. - Status: ok (already scraped)
+2024-06-01 18:52:58,878 - Zverev A. - Status: waiting
+2024-06-01 18:52:58,880 - Zverev A. - Status: ok (already scraped)
+2024-06-01 18:52:58,880 - Medvedev D. - Status: waiting
+2024-06-01 18:52:58,883 - Medvedev D. - Status: ok (already scraped)
+2024-06-01 18:52:58,883 - Rublev A. - Status: waiting
+2024-06-01 18:52:58,885 - Rublev A. - Status: ok (already scraped)
+2024-06-01 18:52:58,885 - Ruud C. - Status: waiting
+2024-06-01 18:52:58,887 - Ruud C. - Status: ok (already scraped)
+2024-06-01 18:52:58,887 - Hurkacz H. - Status: waiting
+2024-06-01 18:52:58,889 - Hurkacz H. - Status: ok (already scraped)
+2024-06-01 18:52:58,889 - Tsitsipas S. - Status: waiting
+2024-06-01 18:52:58,890 - Tsitsipas S. - Status: ok (already scraped)
+2024-06-01 18:52:58,890 - Dimitrov G. - Status: waiting
+2024-06-01 18:52:58,892 - Dimitrov G. - Status: ok (already scraped)
+2024-06-01 18:52:58,892 - Minaur A. - Status: waiting
+2024-06-01 18:52:58,894 - Minaur A. - Status: ok (already scraped)
+2024-06-01 18:52:58,894 - Fritz T. - Status: waiting
+2024-06-01 18:52:58,897 - Fritz T. - Status: ok (already scraped)
+2024-06-01 18:52:58,897 - Rune H. - Status: waiting
+2024-06-01 18:52:58,898 - Rune H. - Status: ok (already scraped)
+2024-06-01 18:52:58,898 - Paul T. - Status: waiting
+2024-06-01 18:52:58,900 - Paul T. - Status: ok (already scraped)
+2024-06-01 18:52:58,900 - Shelton B. - Status: waiting
+2024-06-01 18:52:58,902 - Shelton B. - Status: ok (already scraped)
+2024-06-01 18:52:58,902 - Jarry N. - Status: waiting
+2024-06-01 18:52:58,904 - Jarry N. - Status: ok (already scraped)
+2024-06-01 18:52:58,904 - Humbert U. - Status: waiting
+2024-06-01 18:52:58,907 - Humbert U. - Status: ok (already scraped)
+2024-06-01 18:52:58,907 - Khachanov K. - Status: waiting
+2024-06-01 18:52:58,909 - Khachanov K. - Status: ok (already scraped)
+2024-06-01 18:52:58,909 - Bublik A. - Status: waiting
+2024-06-01 18:52:58,910 - Bublik A. - Status: ok (already scraped)
+2024-06-01 18:52:58,910 - Baez S. - Status: waiting
+2024-06-01 18:52:58,912 - Baez S. - Status: ok (already scraped)
+2024-06-01 18:52:58,912 - Aliassime F. - Status: waiting
+2024-06-01 18:52:58,915 - Aliassime F. - Status: ok (already scraped)
+2024-06-01 18:52:58,915 - Mannarino A. - Status: waiting
+2024-06-01 18:52:58,916 - Mannarino A. - Status: ok (already scraped)
+2024-06-01 18:52:58,916 - Cerundolo F. - Status: waiting
+2024-06-01 18:52:58,919 - Cerundolo F. - Status: ok (already scraped)
+2024-06-01 18:52:58,919 - Lehecka J. - Status: waiting
+2024-06-01 18:52:58,920 - Lehecka J. - Status: ok (already scraped)
+2024-06-01 18:52:58,920 - Tabilo A. - Status: waiting
+2024-06-01 18:52:58,923 - Tabilo A. - Status: ok (already scraped)
+2024-06-01 18:52:58,923 - Tiafoe F. - Status: waiting
+2024-06-01 18:52:58,925 - Tiafoe F. - Status: ok (already scraped)
+2024-06-01 18:52:58,925 - Griekspoor T. - Status: waiting
+2024-06-01 18:52:58,927 - Griekspoor T. - Status: ok (already scraped)
+2024-06-01 18:52:58,927 - Korda S. - Status: waiting
+2024-06-01 18:52:58,929 - Korda S. - Status: ok (already scraped)
+2024-06-01 18:52:58,929 - Etcheverry T. - Status: waiting
+2024-06-01 18:52:58,931 - Etcheverry T. - Status: ok (already scraped)
+2024-06-01 18:52:58,931 - Fils A. - Status: waiting
+2024-06-01 18:52:58,933 - Fils A. - Status: ok (already scraped)
+2024-06-01 18:52:58,933 - Musetti L. - Status: waiting
+2024-06-01 18:52:58,935 - Musetti L. - Status: ok (already scraped)
+2024-06-01 18:52:58,935 - Navone M. - Status: waiting
+2024-06-01 18:52:58,937 - Navone M. - Status: ok (already scraped)
+2024-06-01 18:52:58,937 - Norrie C. - Status: waiting
+2024-06-01 18:52:58,939 - Norrie C. - Status: ok (already scraped)
+2024-06-01 18:52:58,939 - Fokina A. - Status: waiting
+2024-06-01 18:52:58,940 - Fokina A. - Status: ok (already scraped)
+2024-06-01 18:52:58,940 - Draper J. - Status: waiting
+2024-06-01 18:52:58,942 - Draper J. - Status: ok (already scraped)
+2024-06-01 18:52:58,942 - Arnaldi M. - Status: waiting
+2024-06-01 18:52:58,944 - Arnaldi M. - Status: ok (already scraped)
+2024-06-01 18:52:58,944 - Thompson J. - Status: waiting
+2024-06-01 18:52:58,947 - Thompson J. - Status: ok (already scraped)
+2024-06-01 18:52:58,947 - Monfils G. - Status: waiting
+2024-06-01 18:52:58,949 - Monfils G. - Status: ok (already scraped)
+2024-06-01 18:52:58,949 - Struff J. - Status: waiting
+2024-06-01 18:52:58,951 - Struff J. - Status: ok (already scraped)
+2024-06-01 18:52:58,951 - Safiullin R. - Status: waiting
+2024-06-01 18:52:58,952 - Safiullin R. - Status: ok (already scraped)
+2024-06-01 18:52:58,952 - Marozsan F. - Status: waiting
+2024-06-01 18:52:58,954 - Marozsan F. - Status: ok (already scraped)
+2024-06-01 18:52:58,954 - Zhang Z. - Status: waiting
+2024-06-01 18:52:58,956 - Zhang Z. - Status: ok (already scraped)
+2024-06-01 18:52:58,956 - Eubanks C. - Status: waiting
+2024-06-01 18:52:58,959 - Eubanks C. - Status: ok (already scraped)
+2024-06-01 18:52:58,959 - Machac T. - Status: waiting
+2024-06-01 18:52:58,961 - Machac T. - Status: ok (already scraped)
+2024-06-01 18:52:58,961 - Ofner S. - Status: waiting
+2024-06-01 18:52:58,963 - Ofner S. - Status: ok (already scraped)
+2024-06-01 18:52:58,963 - Borges N. - Status: waiting
+2024-06-01 18:52:58,965 - Borges N. - Status: ok (already scraped)
+2024-06-01 18:52:58,965 - Darderi L. - Status: waiting
+2024-06-01 18:52:58,967 - Darderi L. - Status: ok (already scraped)
+2024-06-01 18:52:58,967 - Giron M. - Status: waiting
+2024-06-01 18:52:58,970 - Giron M. - Status: ok (already scraped)
+2024-06-01 18:52:58,970 - Martinez P. - Status: waiting
+2024-06-01 18:52:58,971 - Martinez P. - Status: ok (already scraped)
+2024-06-01 18:52:58,971 - Sonego L. - Status: waiting
+2024-06-01 18:52:58,974 - Sonego L. - Status: ok (already scraped)
+2024-06-01 18:52:58,974 - Popyrin A. - Status: waiting
+2024-06-01 18:52:58,976 - Popyrin A. - Status: ok (already scraped)
+2024-06-01 18:52:58,976 - Djere L. - Status: waiting
+2024-06-01 18:52:58,977 - Djere L. - Status: ok (already scraped)
+2024-06-01 18:52:58,977 - Fucsovics M. - Status: waiting
+2024-06-01 18:52:58,979 - Fucsovics M. - Status: ok (already scraped)
+2024-06-01 18:52:58,979 - Acosta F. - Status: waiting
+2024-06-01 18:52:58,981 - Acosta F. - Status: ok (already scraped)
+2024-06-01 18:52:58,981 - Kecmanovic M. - Status: waiting
+2024-06-01 18:52:58,983 - Kecmanovic M. - Status: ok (already scraped)
+2024-06-01 18:52:58,983 - Cobolli F. - Status: waiting
+2024-06-01 18:52:58,985 - Cobolli F. - Status: ok (already scraped)
+2024-06-01 18:52:58,985 - Kotov P. - Status: waiting
+2024-06-01 18:52:58,987 - Kotov P. - Status: ok (already scraped)
+2024-06-01 18:52:58,987 - Wild T. - Status: waiting
+2024-06-01 18:52:58,988 - Wild T. - Status: ok (already scraped)
+2024-06-01 18:52:58,988 - Lajovic D. - Status: waiting
+2024-06-01 18:52:58,991 - Lajovic D. - Status: ok (already scraped)
+2024-06-01 18:52:58,991 - Evans D. - Status: waiting
+2024-06-01 18:52:58,993 - Evans D. - Status: ok (already scraped)
+2024-06-01 18:52:58,993 - Shevchenko A. - Status: waiting
+2024-06-01 18:52:58,994 - Shevchenko A. - Status: ok (already scraped)
+2024-06-01 18:52:58,995 - Baena R. - Status: waiting
+2024-06-01 18:52:58,996 - Baena R. - Status: ok (already scraped)
+2024-06-01 18:52:58,997 - Munar J. - Status: waiting
+2024-06-01 18:52:58,998 - Munar J. - Status: ok (already scraped)
+2024-06-01 18:52:58,998 - Michelsen A. - Status: waiting
+2024-06-01 18:52:59,001 - Michelsen A. - Status: ok (already scraped)
+2024-06-01 18:52:59,001 - Ruusuvuori E. - Status: waiting
+2024-06-01 18:52:59,003 - Ruusuvuori E. - Status: ok (already scraped)
+2024-06-01 18:52:59,003 - Koepfer D. - Status: waiting
+2024-06-01 18:52:59,005 - Koepfer D. - Status: ok (already scraped)
+2024-06-01 18:52:59,005 - Nakashima B. - Status: waiting
+2024-06-01 18:52:59,006 - Nakashima B. - Status: ok (already scraped)
+2024-06-01 18:52:59,006 - Coria F. - Status: waiting
+2024-06-01 18:52:59,008 - Coria F. - Status: ok (already scraped)
+2024-06-01 18:52:59,008 - Nardi L. - Status: waiting
+2024-06-01 18:52:59,010 - Nardi L. - Status: ok (already scraped)
+2024-06-01 18:52:59,010 - Coric B. - Status: waiting
+2024-06-01 18:52:59,011 - Coric B. - Status: ok (already scraped)
+2024-06-01 18:52:59,011 - Nishioka Y. - Status: waiting
+2024-06-01 18:52:59,013 - Nishioka Y. - Status: ok (already scraped)
+2024-06-01 18:52:59,013 - Rinderknech A. - Status: waiting
+2024-06-01 18:52:59,014 - Rinderknech A. - Status: ok (already scraped)
+2024-06-01 18:52:59,014 - Mcdonald M. - Status: waiting
+2024-06-01 18:52:59,017 - Mcdonald M. - Status: ok (already scraped)
+2024-06-01 18:52:59,017 - Murray A. - Status: waiting
+2024-06-01 18:52:59,018 - Murray A. - Status: ok (already scraped)
+2024-06-01 18:52:59,018 - Mensik J. - Status: waiting
+2024-06-01 18:52:59,021 - Mensik J. - Status: ok (already scraped)
+2024-06-01 18:52:59,021 - Cazaux A. - Status: waiting
+2024-06-01 18:52:59,022 - Cazaux A. - Status: ok (already scraped)
+2024-06-01 18:52:59,022 - Hijikata R. - Status: waiting
+2024-06-01 18:52:59,024 - Hijikata R. - Status: ok (already scraped)
+2024-06-01 18:52:59,024 - Moutet C. - Status: waiting
+2024-06-01 18:52:59,026 - Moutet C. - Status: ok (already scraped)
+2024-06-01 18:52:59,026 - Agut R. - Status: waiting
+2024-06-01 18:52:59,028 - Agut R. - Status: ok (already scraped)
+2024-06-01 18:52:59,028 - Daniel T. - Status: waiting
+2024-06-01 18:52:59,030 - Daniel T. - Status: ok (already scraped)
+2024-06-01 18:52:59,030 - Karatsev A. - Status: waiting
+2024-06-01 18:52:59,031 - Karatsev A. - Status: ok (already scraped)
+2024-06-01 18:52:59,031 - Altmaier D. - Status: waiting
+2024-06-01 18:52:59,033 - Altmaier D. - Status: ok (already scraped)
+2024-06-01 18:52:59,033 - Monteiro T. - Status: waiting
+2024-06-01 18:52:59,035 - Monteiro T. - Status: ok (already scraped)
+2024-06-01 18:52:59,035 - Hanfmann Y. - Status: waiting
+2024-06-01 18:52:59,037 - Hanfmann Y. - Status: ok (already scraped)
+2024-06-01 18:52:59,037 - Lestienne C. - Status: waiting
+2024-06-01 18:52:59,038 - Lestienne C. - Status: ok (already scraped)
+2024-06-01 18:52:59,038 - Comesana F. - Status: waiting
+2024-06-01 18:52:59,041 - Comesana F. - Status: ok (already scraped)
+2024-06-01 18:52:59,041 - Kovacevic A. - Status: waiting
+2024-06-01 18:52:59,042 - Kovacevic A. - Status: ok (already scraped)
+2024-06-01 18:52:59,042 - Shang J. - Status: waiting
+2024-06-01 18:52:59,044 - Shang J. - Status: ok (already scraped)
+2024-06-01 18:52:59,044 - Muller A. - Status: waiting
+2024-06-01 18:52:59,046 - Muller A. - Status: ok (already scraped)
+2024-06-01 18:52:59,046 - Fognini F. - Status: waiting
+2024-06-01 18:52:59,048 - Fognini F. - Status: ok (already scraped)
+2024-06-01 18:52:59,048 - Purcell M. - Status: waiting
+2024-06-01 18:52:59,050 - Purcell M. - Status: ok (already scraped)
+2024-06-01 18:52:59,050 - Vukic A. - Status: waiting
+2024-06-01 18:52:59,052 - Vukic A. - Status: ok (already scraped)
+2024-06-01 18:52:59,052 - Nagal S. - Status: waiting
+2024-06-01 18:52:59,053 - Nagal S. - Status: ok (already scraped)
+2024-06-01 18:52:59,053 - Walton A. - Status: waiting
+2024-06-01 18:52:59,055 - Walton A. - Status: ok (already scraped)
+2024-06-01 18:52:59,055 - Berrettini M. - Status: waiting
+2024-06-01 18:52:59,057 - Berrettini M. - Status: ok (already scraped)
+2024-06-01 18:52:59,057 - Wawrinka S. - Status: waiting
+2024-06-01 18:52:59,058 - Wawrinka S. - Status: ok (already scraped)
+2024-06-01 18:52:59,058 - Kokkinakis T. - Status: waiting
+2024-06-01 18:52:59,060 - Kokkinakis T. - Status: ok (already scraped)
+2024-06-01 18:52:59,061 - Marterer M. - Status: waiting
+2024-06-01 18:52:59,062 - Marterer M. - Status: ok (already scraped)
+2024-06-01 18:52:59,062 - Zandschulp B. - Status: waiting
+2024-06-01 18:52:59,064 - Zandschulp B. - Status: ok (already scraped)
+2024-06-01 18:52:59,064 - Gaston H. - Status: waiting
+2024-06-01 18:52:59,065 - Gaston H. - Status: ok (already scraped)
+2024-06-01 18:52:59,065 - Shapovalov D. - Status: waiting
+2024-06-01 18:52:59,067 - Shapovalov D. - Status: ok (already scraped)
+2024-06-01 18:52:59,067 - Galan D. - Status: waiting
+2024-06-01 18:52:59,070 - Galan D. - Status: ok (already scraped)
+2024-06-01 18:52:59,070 - Goffin D. - Status: waiting
+2024-06-01 18:52:59,071 - Goffin D. - Status: ok (already scraped)
+2024-06-01 18:52:59,071 - Halys Q. - Status: waiting
+2024-06-01 18:52:59,072 - Halys Q. - Status: ok (already scraped)
+2024-06-01 18:52:59,072 - Broady L. - Status: waiting
+2024-06-01 18:52:59,074 - Broady L. - Status: ok (already scraped)
+2024-06-01 18:52:59,074 - Pella G. - Status: waiting
+2024-06-01 18:52:59,076 - Pella G. - Status: ok (already scraped)
+2024-06-01 18:52:59,076 - Ymer M. - Status: waiting
+2024-06-01 18:52:59,077 - Ymer M. - Status: ok (already scraped)
+2024-06-01 18:52:59,077 - Nadal R. - Status: waiting
+2024-06-01 18:52:59,080 - Nadal R. - Status: ok (already scraped)
+2024-06-01 18:52:59,080 - Thiem D. - Status: waiting
+2024-06-01 18:52:59,081 - Thiem D. - Status: ok (already scraped)
+2024-06-01 18:52:59,081 - Isner J. - Status: waiting
+2024-06-01 18:52:59,083 - Isner J. - Status: ok (already scraped)
+2024-06-01 18:52:59,083 - Gasquet R. - Status: waiting
+2024-06-01 18:52:59,085 - Gasquet R. - Status: ok (already scraped)
+2024-06-01 18:52:59,085 - Raonic M. - Status: waiting
+2024-06-01 18:52:59,087 - Raonic M. - Status: ok (already scraped)
+2024-06-01 18:52:59,087 - Garin C. - Status: waiting
+2024-06-01 18:52:59,088 - Garin C. - Status: ok (already scraped)
+2024-06-01 18:52:59,088 - Mahut N. - Status: waiting
+2024-06-01 18:52:59,090 - Mahut N. - Status: ok (already scraped)
+2024-06-01 18:52:59,090 - Schwartzman D. - Status: waiting
+2024-06-01 18:52:59,092 - Schwartzman D. - Status: ok (already scraped)
+2024-06-01 18:52:59,092 - Vinolas A. - Status: waiting
+2024-06-01 18:52:59,094 - Vinolas A. - Status: ok (already scraped)
+2024-06-01 18:52:59,094 - Granollers M. - Status: waiting
+2024-06-01 18:52:59,096 - Granollers M. - Status: ok (already scraped)
+2024-06-01 18:52:59,096 - Opelka R. - Status: waiting
+2024-06-01 18:52:59,098 - Opelka R. - Status: ok (already scraped)
+2024-06-01 18:52:59,098 - Paire B. - Status: waiting
+2024-06-01 18:52:59,100 - Paire B. - Status: ok (already scraped)
+2024-06-01 18:52:59,100 - Vesely J. - Status: waiting
+2024-06-01 18:52:59,101 - Vesely J. - Status: ok (already scraped)
+2024-06-01 18:52:59,101 - Ram R. - Status: waiting
+2024-06-01 18:52:59,104 - Ram R. - Status: ok (already scraped)
+2024-06-01 18:52:59,104 - Huesler M. - Status: waiting
+2024-06-01 18:52:59,105 - Huesler M. - Status: ok (already scraped)
+2024-06-01 18:52:59,105 - Kwon S. - Status: waiting
+2024-06-01 18:52:59,106 - Kwon S. - Status: ok (already scraped)
+2024-06-01 18:52:59,106 - Chardy J. - Status: waiting
+2024-06-01 18:52:59,109 - Chardy J. - Status: ok (already scraped)
+2024-06-01 18:52:59,109 - Albot R. - Status: waiting
+2024-06-01 18:52:59,110 - Albot R. - Status: ok (already scraped)
+2024-06-01 18:52:59,110 - Sandgren T. - Status: waiting
+2024-06-01 18:52:59,111 - Sandgren T. - Status: ok (already scraped)
+2024-06-01 18:52:59,111 - Dodig I. - Status: waiting
+2024-06-01 18:52:59,114 - Dodig I. - Status: ok (already scraped)
+2024-06-01 18:52:59,114 - Gojowczyk P. - Status: waiting
+2024-06-01 18:52:59,116 - Gojowczyk P. - Status: ok (already scraped)
+2024-06-01 18:52:59,116 - Ivashka I. - Status: waiting
+2024-06-01 18:52:59,117 - Ivashka I. - Status: ok (already scraped)
+2024-06-01 18:52:59,117 - Zeballos H. - Status: waiting
+2024-06-01 18:52:59,119 - Zeballos H. - Status: ok (already scraped)
+2024-06-01 18:52:59,119 - Chung H. - Status: waiting
+2024-06-01 18:52:59,120 - Chung H. - Status: ok (already scraped)
+2024-06-01 18:52:59,120 - Kukushkin M. - Status: waiting
+2024-06-01 18:52:59,122 - Kukushkin M. - Status: ok (already scraped)
+2024-06-01 18:52:59,122 - Cerundolo J. - Status: waiting
+2024-06-01 18:52:59,124 - Cerundolo J. - Status: ok (already scraped)
+2024-06-01 18:52:59,124 - Golubev A. - Status: waiting
+2024-06-01 18:52:59,126 - Golubev A. - Status: ok (already scraped)
+2024-06-01 18:52:59,126 - Cressy M. - Status: waiting
+2024-06-01 18:52:59,128 - Cressy M. - Status: ok (already scraped)
+2024-06-01 18:52:59,128 - Jong J. - Status: waiting
+2024-06-01 18:52:59,130 - Jong J. - Status: ok (already scraped)
+2024-06-01 18:52:59,130 - Zeppieri G. - Status: waiting
+2024-06-01 18:52:59,132 - Zeppieri G. - Status: ok (already scraped)
+2024-06-01 18:52:59,132 - Ymer E. - Status: waiting
+2024-06-01 18:52:59,134 - Ymer E. - Status: ok (already scraped)
+2024-06-01 18:52:59,134 - Watanuki Y. - Status: waiting
+2024-06-01 18:52:59,135 - Watanuki Y. - Status: ok (already scraped)
+2024-06-01 18:52:59,135 - Vavassori A. - Status: waiting
+2024-06-01 18:52:59,137 - Vavassori A. - Status: ok (already scraped)
+2024-06-01 18:52:59,137 - Varillas J. - Status: waiting
+2024-06-01 18:52:59,139 - Varillas J. - Status: ok (already scraped)
+2024-06-01 18:52:59,139 - Rodionov J. - Status: waiting
+2024-06-01 18:52:59,141 - Rodionov J. - Status: ok (already scraped)
+2024-06-01 18:52:59,141 - Ritschard A. - Status: waiting
+2024-06-01 18:52:59,143 - Ritschard A. - Status: ok (already scraped)
+2024-06-01 18:52:59,143 - Agamenone F. - Status: waiting
+2024-06-01 18:52:59,145 - Agamenone F. - Status: ok (already scraped)
+2024-06-01 18:52:59,145 - Ajdukovic D. - Status: waiting
+2024-06-01 18:52:59,146 - Ajdukovic D. - Status: ok (already scraped)
+2024-06-01 18:52:59,146 - Assche L. - Status: waiting
+2024-06-01 18:52:59,148 - Assche L. - Status: ok (already scraped)
+2024-06-01 18:52:59,148 - Bergs Z. - Status: waiting
+2024-06-01 18:52:59,150 - Bergs Z. - Status: ok (already scraped)
+2024-06-01 18:52:59,150 - Duckworth J. - Status: waiting
+2024-06-01 18:52:59,152 - Duckworth J. - Status: ok (already scraped)
+2024-06-01 18:52:59,152 - Cachin P. - Status: waiting
+2024-06-01 18:52:59,153 - Cachin P. - Status: ok (already scraped)
+2024-06-01 18:52:59,153 - Tirante T. - Status: waiting
+2024-06-01 18:52:59,155 - Tirante T. - Status: ok (already scraped)
+2024-06-01 18:52:59,155 - Carabelli C. - Status: waiting
+2024-06-01 18:52:59,157 - Carabelli C. - Status: ok (already scraped)
+2024-06-01 18:52:59,157 - Barrere G. - Status: waiting
+2024-06-01 18:52:59,158 - Barrere G. - Status: ok (already scraped)
+2024-06-01 18:52:59,158 - Mmoh M. - Status: waiting
+2024-06-01 18:52:59,161 - Mmoh M. - Status: ok (already scraped)
+2024-06-01 18:52:59,161 - Vacherot V. - Status: waiting
+2024-06-01 18:52:59,162 - Vacherot V. - Status: ok (already scraped)
+2024-06-01 18:52:59,162 - Klein L. - Status: waiting
+2024-06-01 18:52:59,164 - Klein L. - Status: ok (already scraped)
+2024-06-01 18:52:59,164 - Bagnis F. - Status: waiting
+2024-06-01 18:52:59,166 - Bagnis F. - Status: ok (already scraped)
+2024-06-01 18:52:59,166 - Atmane T. - Status: waiting
+2024-06-01 18:52:59,168 - Atmane T. - Status: ok (already scraped)
+2024-06-01 18:52:59,168 - Mayot H. - Status: waiting
+2024-06-01 18:52:59,170 - Mayot H. - Status: ok (already scraped)
+2024-06-01 18:52:59,170 - Svajda Z. - Status: waiting
+2024-06-01 18:52:59,171 - Svajda Z. - Status: ok (already scraped)
+2024-06-01 18:52:59,171 - Napolitano S. - Status: waiting
+2024-06-01 18:52:59,174 - Napolitano S. - Status: ok (already scraped)
+2024-06-01 18:52:59,174 - Nava E. - Status: waiting
+2024-06-01 18:52:59,175 - Nava E. - Status: ok (already scraped)
+2024-06-01 18:52:59,175 - Kopriva V. - Status: waiting
+2024-06-01 18:52:59,177 - Kopriva V. - Status: ok (already scraped)
+2024-06-01 18:52:59,177 - Dzumhur D. - Status: waiting
+2024-06-01 18:52:59,179 - Dzumhur D. - Status: ok (already scraped)
+2024-06-01 18:52:59,179 - Alboran N. - Status: waiting
+2024-06-01 18:52:59,180 - Alboran N. - Status: ok (already scraped)
+2024-06-01 18:52:59,180 - Harris L. - Status: waiting
+2024-06-01 18:52:59,181 - Harris L. - Status: ok (already scraped)
+2024-06-01 18:52:59,181 - Droguet T. - Status: waiting
+2024-06-01 18:52:59,184 - Droguet T. - Status: ok (already scraped)
+2024-06-01 18:52:59,184 - Passaro F. - Status: waiting
+2024-06-01 18:52:59,185 - Passaro F. - Status: ok (already scraped)
+2024-06-01 18:52:59,186 - Medjedovic H. - Status: waiting
+2024-06-01 18:52:59,187 - Medjedovic H. - Status: ok (already scraped)
+2024-06-01 18:52:59,187 - Alves F. - Status: waiting
+2024-06-01 18:52:59,189 - Alves F. - Status: ok (already scraped)
+2024-06-01 18:52:59,189 - Gigante M. - Status: waiting
+2024-06-01 18:52:59,191 - Gigante M. - Status: ok (already scraped)
+2024-06-01 18:52:59,191 - Herbert P. - Status: waiting
+2024-06-01 18:52:59,193 - Herbert P. - Status: ok (already scraped)
+2024-06-01 18:52:59,193 - Stricker D. - Status: waiting
+2024-06-01 18:52:59,195 - Stricker D. - Status: ok (already scraped)
+2024-06-01 18:52:59,195 - Burruchaga R. - Status: waiting
+2024-06-01 18:52:59,196 - Burruchaga R. - Status: ok (already scraped)
+2024-06-01 18:52:59,197 - Kovalik J. - Status: waiting
+2024-06-01 18:52:59,198 - Kovalik J. - Status: ok (already scraped)
+2024-06-01 18:52:59,198 - Ruiz P. - Status: waiting
+2024-06-01 18:52:59,200 - Ruiz P. - Status: ok (already scraped)
+2024-06-01 18:52:59,200 - Hassan B. - Status: waiting
+2024-06-01 18:52:59,202 - Hassan B. - Status: ok (already scraped)
+2024-06-01 18:52:59,202 - Kypson P. - Status: waiting
+2024-06-01 18:52:59,205 - Kypson P. - Status: ok (already scraped)
+2024-06-01 18:52:59,205 - Riedi L. - Status: waiting
+2024-06-01 18:52:59,207 - Riedi L. - Status: ok (already scraped)
+2024-06-01 18:52:59,207 - Galarneau A. - Status: waiting
+2024-06-01 18:52:59,208 - Galarneau A. - Status: ok (already scraped)
+2024-06-01 18:52:59,208 - Piros Z. - Status: waiting
+2024-06-01 18:52:59,210 - Piros Z. - Status: ok (already scraped)
+2024-06-01 18:52:59,210 - Virtanen O. - Status: waiting
+2024-06-01 18:52:59,212 - Virtanen O. - Status: ok (already scraped)
+2024-06-01 18:52:59,212 - Vera T. - Status: waiting
+2024-06-01 18:52:59,214 - Vera T. - Status: ok (already scraped)
+2024-06-01 18:52:59,214 - Gojo B. - Status: waiting
+2024-06-01 18:52:59,215 - Gojo B. - Status: ok (already scraped)
+2024-06-01 18:52:59,215 - Pellegrino A. - Status: waiting
+2024-06-01 18:52:59,217 - Pellegrino A. - Status: ok (already scraped)
+2024-06-01 18:52:59,217 - Blanchet U. - Status: waiting
+2024-06-01 18:52:59,219 - Blanchet U. - Status: ok (already scraped)
+2024-06-01 18:52:59,219 - Kudla D. - Status: waiting
+2024-06-01 18:52:59,221 - Kudla D. - Status: ok (already scraped)
+2024-06-01 18:52:59,221 - Mochizuki S. - Status: waiting
+2024-06-01 18:52:59,223 - Mochizuki S. - Status: ok (already scraped)
+2024-06-01 18:52:59,223 - Molleker R. - Status: waiting
+2024-06-01 18:52:59,225 - Molleker R. - Status: ok (already scraped)
+2024-06-01 18:52:59,225 - Batalla O. - Status: waiting
+2024-06-01 18:52:59,227 - Batalla O. - Status: ok (already scraped)
+2024-06-01 18:52:59,227 - Pouille L. - Status: waiting
+2024-06-01 18:52:59,228 - Pouille L. - Status: ok (already scraped)
+2024-06-01 18:52:59,228 - Diallo G. - Status: waiting
+2024-06-01 18:52:59,230 - Diallo G. - Status: ok (already scraped)
+2024-06-01 18:52:59,230 - Yevseyev D. - Status: waiting
+2024-06-01 18:52:59,231 - Yevseyev D. - Status: ok (already scraped)
+2024-06-01 18:52:59,231 - Dellien H. - Status: waiting
+2024-06-01 18:52:59,234 - Dellien H. - Status: ok (already scraped)
+2024-06-01 18:52:59,234 - Trungelliti M. - Status: waiting
+2024-06-01 18:52:59,236 - Trungelliti M. - Status: ok (already scraped)
+2024-06-01 18:52:59,236 - Zhukayev B. - Status: waiting
+2024-06-01 18:52:59,238 - Zhukayev B. - Status: ok (already scraped)
+2024-06-01 18:52:59,238 - Bonzi B. - Status: waiting
+2024-06-01 18:52:59,240 - Bonzi B. - Status: ok (already scraped)
+2024-06-01 18:52:59,240 - Bellucci M. - Status: waiting
+2024-06-01 18:52:59,241 - Bellucci M. - Status: ok (already scraped)
+2024-06-01 18:52:59,241 - Heide G. - Status: waiting
+2024-06-01 18:52:59,243 - Heide G. - Status: ok (already scraped)
+2024-06-01 18:52:59,243 - Martineau M. - Status: waiting
+2024-06-01 18:52:59,245 - Martineau M. - Status: ok (already scraped)
+2024-06-01 18:52:59,245 - Damm M. - Status: waiting
+2024-06-01 18:52:59,246 - Damm M. - Status: ok (already scraped)
+2024-06-01 18:52:59,246 - Choinski J. - Status: waiting
+2024-06-01 18:52:59,248 - Choinski J. - Status: ok (already scraped)
+2024-06-01 18:52:59,248 - Wong C. - Status: waiting
+2024-06-01 18:52:59,250 - Wong C. - Status: ok (already scraped)
+2024-06-01 18:52:59,250 - Faria J. - Status: waiting
+2024-06-01 18:52:59,251 - Faria J. - Status: ok (already scraped)
+2024-06-01 18:52:59,251 - Grenier H. - Status: waiting
+2024-06-01 18:52:59,254 - Grenier H. - Status: ok (already scraped)
+2024-06-01 18:52:59,254 - Schoolkate T. - Status: waiting
+2024-06-01 18:52:59,255 - Schoolkate T. - Status: ok (already scraped)
+2024-06-01 18:52:59,255 - Olivieri G. - Status: waiting
+2024-06-01 18:52:59,257 - Olivieri G. - Status: ok (already scraped)
+2024-06-01 18:52:59,257 - Bu Y. - Status: waiting
+2024-06-01 18:52:59,259 - Bu Y. - Status: ok (already scraped)
+2024-06-01 18:52:59,259 - Canas A. - Status: waiting
+2024-06-01 18:52:59,260 - Canas A. - Status: ok (already scraped)
+2024-06-01 18:52:59,260 - Hong S. - Status: waiting
+2024-06-01 18:52:59,262 - Hong S. - Status: ok (already scraped)
+2024-06-01 18:52:59,262 - Svrcina D. - Status: waiting
+2024-06-01 18:52:59,264 - Svrcina D. - Status: ok (already scraped)
+2024-06-01 18:52:59,264 - Hardt N. - Status: waiting
+2024-06-01 18:52:59,266 - Hardt N. - Status: ok (already scraped)
+2024-06-01 18:52:59,266 - Sachko V. - Status: waiting
+2024-06-01 18:52:59,267 - Sachko V. - Status: ok (already scraped)
+2024-06-01 18:52:59,268 - Loore J. - Status: waiting
+2024-06-01 18:52:59,270 - Loore J. - Status: ok (already scraped)
+2024-06-01 18:52:59,270 - Skatov T. - Status: waiting
+2024-06-01 18:52:59,271 - Skatov T. - Status: ok (already scraped)
+2024-06-01 18:52:59,271 - Polmans M. - Status: waiting
+2024-06-01 18:52:59,273 - Polmans M. - Status: ok (already scraped)
+2024-06-01 18:52:59,273 - Harris B. - Status: waiting
+2024-06-01 18:52:59,274 - Harris B. - Status: ok (already scraped)
+2024-06-01 18:52:59,274 - Travaglia S. - Status: waiting
+2024-06-01 18:52:59,276 - Travaglia S. - Status: ok (already scraped)
+2024-06-01 18:52:59,276 - Rocha H. - Status: waiting
+2024-06-01 18:52:59,278 - Rocha H. - Status: ok (already scraped)
+2024-06-01 18:52:59,278 - Prizmic D. - Status: waiting
+2024-06-01 18:52:59,280 - Prizmic D. - Status: ok (already scraped)
+2024-06-01 18:52:59,280 - Maestrelli F. - Status: waiting
+2024-06-01 18:52:59,281 - Maestrelli F. - Status: ok (already scraped)
+2024-06-01 18:52:59,281 - Jasika O. - Status: waiting
+2024-06-01 18:52:59,283 - Jasika O. - Status: ok (already scraped)
+2024-06-01 18:52:59,283 - Novak D. - Status: waiting
+2024-06-01 18:52:59,285 - Novak D. - Status: ok (already scraped)
+2024-06-01 18:52:59,285 - Couacaud E. - Status: waiting
+2024-06-01 18:52:59,287 - Couacaud E. - Status: ok (already scraped)
+2024-06-01 18:52:59,287 - Kubler J. - Status: waiting
+2024-06-01 18:52:59,288 - Kubler J. - Status: ok (already scraped)
+2024-06-01 18:52:59,288 - Uchiyama Y. - Status: waiting
+2024-06-01 18:52:59,290 - Uchiyama Y. - Status: ok (already scraped)
+2024-06-01 18:52:59,290 - Tu L. - Status: waiting
+2024-06-01 18:52:59,292 - Tu L. - Status: ok (already scraped)
+2024-06-01 18:52:59,292 - Molcan A. - Status: waiting
+2024-06-01 18:52:59,293 - Molcan A. - Status: ok (already scraped)
+2024-06-01 18:52:59,293 - Lajal M. - Status: waiting
+2024-06-01 18:52:59,295 - Lajal M. - Status: ok (already scraped)
+2024-06-01 18:52:59,295 - Hemery C. - Status: waiting
+2024-06-01 18:52:59,297 - Hemery C. - Status: ok (already scraped)
+2024-06-01 18:52:59,297 - Peniston R. - Status: waiting
+2024-06-01 18:52:59,300 - Peniston R. - Status: ok (already scraped)
+2024-06-01 18:52:59,300 - Marchenko I. - Status: waiting
+2024-06-01 18:52:59,301 - Marchenko I. - Status: ok (already scraped)
+2024-06-01 18:52:59,301 - Janvier M. - Status: waiting
+2024-06-01 18:52:59,303 - Janvier M. - Status: ok (already scraped)
+2024-06-01 18:52:59,303 - Miralles B. - Status: waiting
+2024-06-01 18:52:59,305 - Miralles B. - Status: ok (already scraped)
+2024-06-01 18:52:59,305 - Fatic N. - Status: waiting
+2024-06-01 18:52:59,306 - Fatic N. - Status: ok (already scraped)
+2024-06-01 18:52:59,306 - Squire H. - Status: waiting
+2024-06-01 18:52:59,308 - Squire H. - Status: ok (already scraped)
+2024-06-01 18:52:59,308 - Dellien M. - Status: waiting
+2024-06-01 18:52:59,310 - Dellien M. - Status: ok (already scraped)
+2024-06-01 18:52:59,310 - Shimabukuro S. - Status: waiting
+2024-06-01 18:52:59,313 - Shimabukuro S. - Status: ok (already scraped)
+2024-06-01 18:52:59,313 - Guinard M. - Status: waiting
+2024-06-01 18:52:59,315 - Guinard M. - Status: ok (already scraped)
+2024-06-01 18:52:59,315 - Ficovich J. - Status: waiting
+2024-06-01 18:52:59,318 - Ficovich J. - Status: ok (already scraped)
+2024-06-01 18:52:59,318 - Neumayer L. - Status: waiting
+2024-06-01 18:52:59,320 - Neumayer L. - Status: ok (already scraped)
+2024-06-01 18:52:59,320 - Hsu Y. - Status: waiting
+2024-06-01 18:52:59,321 - Hsu Y. - Status: ok (already scraped)
+2024-06-01 18:52:59,322 - Fonseca J. - Status: waiting
+2024-06-01 18:52:59,323 - Fonseca J. - Status: ok (already scraped)
+2024-06-01 18:52:59,323 - Escoffier A. - Status: waiting
+2024-06-01 18:52:59,325 - Escoffier A. - Status: ok (already scraped)
+2024-06-01 18:52:59,325 - Dougaz A. - Status: waiting
+2024-06-01 18:52:59,327 - Dougaz A. - Status: ok (already scraped)
+2024-06-01 18:52:59,327 - Andreev A. - Status: waiting
+2024-06-01 18:52:59,329 - Andreev A. - Status: ok (already scraped)
+2024-06-01 18:52:59,329 - Rincon D. - Status: waiting
+2024-06-01 18:52:59,330 - Rincon D. - Status: ok (already scraped)
+2024-06-01 18:52:59,330 - Sweeny D. - Status: waiting
+2024-06-01 18:52:59,332 - Sweeny D. - Status: ok (already scraped)
+2024-06-01 18:52:59,332 - Sekulic P. - Status: waiting
+2024-06-01 18:52:59,334 - Sekulic P. - Status: ok (already scraped)
+2024-06-01 18:52:59,334 - Bolt A. - Status: waiting
+2024-06-01 18:52:59,335 - Bolt A. - Status: ok (already scraped)
+2024-06-01 18:52:59,335 - Brouwer G. - Status: waiting
+2024-06-01 18:52:59,338 - Brouwer G. - Status: ok (already scraped)
+2024-06-01 18:52:59,338 - Misolic F. - Status: waiting
+2024-06-01 18:52:59,340 - Misolic F. - Status: ok (already scraped)
+2024-06-01 18:52:59,340 - Popko D. - Status: waiting
+2024-06-01 18:52:59,341 - Popko D. - Status: ok (already scraped)
+2024-06-01 18:52:59,341 - Taverna S. - Status: waiting
+2024-06-01 18:52:59,344 - Taverna S. - Status: ok (already scraped)
+2024-06-01 18:52:59,344 - Fery A. - Status: waiting
+2024-06-01 18:52:59,346 - Fery A. - Status: ok (already scraped)
+2024-06-01 18:52:59,346 - Tomic B. - Status: waiting
+2024-06-01 18:52:59,348 - Tomic B. - Status: ok (already scraped)
+2024-06-01 18:52:59,348 - Shelbayh A. - Status: waiting
+2024-06-01 18:52:59,350 - Shelbayh A. - Status: ok (already scraped)
+2024-06-01 18:52:59,350 - Kuzmanov D. - Status: waiting
+2024-06-01 18:52:59,352 - Kuzmanov D. - Status: ok (already scraped)
+2024-06-01 18:52:59,352 - Cosano J. - Status: waiting
+2024-06-01 18:52:59,354 - Cosano J. - Status: ok (already scraped)
+2024-06-01 18:52:59,354 - Krueger M. - Status: waiting
+2024-06-01 18:52:59,357 - Krueger M. - Status: ok (already scraped)
+2024-06-01 18:52:59,357 - Quinn E. - Status: waiting
+2024-06-01 18:52:59,358 - Quinn E. - Status: ok (already scraped)
+2024-06-01 18:52:59,359 - Tseng C. - Status: waiting
+2024-06-01 18:52:59,360 - Tseng C. - Status: ok (already scraped)
+2024-06-01 18:52:59,360 - Kachmazov A. - Status: waiting
+2024-06-01 18:52:59,362 - Kachmazov A. - Status: ok (already scraped)
+2024-06-01 18:52:59,362 - Izquierdo N. - Status: waiting
+2024-06-01 18:52:59,364 - Izquierdo N. - Status: ok (already scraped)
+2024-06-01 18:52:59,364 - Habib H. - Status: waiting
+2024-06-01 18:52:59,366 - Habib H. - Status: ok (already scraped)
+2024-06-01 18:52:59,366 - Kirkin E. - Status: waiting
+2024-06-01 18:52:59,368 - Kirkin E. - Status: ok (already scraped)
+2024-06-01 18:52:59,368 - Johnson S. - Status: waiting
+2024-06-01 18:52:59,370 - Johnson S. - Status: ok (already scraped)
+2024-06-01 18:52:59,370 - Kasnikowski M. - Status: waiting
+2024-06-01 18:52:59,371 - Kasnikowski M. - Status: ok (already scraped)
+2024-06-01 18:52:59,371 - Shimizu Y. - Status: waiting
+2024-06-01 18:52:59,374 - Shimizu Y. - Status: ok (already scraped)
+2024-06-01 18:52:59,374 - Mejia N. - Status: waiting
+2024-06-01 18:52:59,376 - Mejia N. - Status: ok (already scraped)
+2024-06-01 18:52:59,376 - Gakhov I. - Status: waiting
+2024-06-01 18:52:59,378 - Gakhov I. - Status: ok (already scraped)
+2024-06-01 18:52:59,378 - Gerasimov E. - Status: waiting
+2024-06-01 18:52:59,380 - Gerasimov E. - Status: ok (already scraped)
+2024-06-01 18:52:59,380 - Moller E. - Status: waiting
+2024-06-01 18:52:59,381 - Moller E. - Status: ok (already scraped)
+2024-06-01 18:52:59,381 - Kwiatkowski T. - Status: waiting
+2024-06-01 18:52:59,383 - Kwiatkowski T. - Status: ok (already scraped)
+2024-06-01 18:52:59,383 - Coppejans K. - Status: waiting
+2024-06-01 18:52:59,385 - Coppejans K. - Status: ok (already scraped)
+2024-06-01 18:52:59,385 - Wu T. - Status: waiting
+2024-06-01 18:52:59,387 - Wu T. - Status: ok (already scraped)
+2024-06-01 18:52:59,388 - Olivo R. - Status: waiting
+2024-06-01 18:52:59,389 - Olivo R. - Status: ok (already scraped)
+2024-06-01 18:52:59,390 - Bueno G. - Status: waiting
+2024-06-01 18:52:59,391 - Bueno G. - Status: ok (already scraped)
+2024-06-01 18:52:59,391 - Blancaneaux G. - Status: waiting
+2024-06-01 18:52:59,394 - Blancaneaux G. - Status: ok (already scraped)
+2024-06-01 18:52:59,394 - Gaubas V. - Status: waiting
+2024-06-01 18:52:59,396 - Gaubas V. - Status: ok (already scraped)
+2024-06-01 18:52:59,396 - Meza A. - Status: waiting
+2024-06-01 18:52:59,398 - Meza A. - Status: ok (already scraped)
+2024-06-01 18:52:59,398 - Chidekh C. - Status: waiting
+2024-06-01 18:52:59,400 - Chidekh C. - Status: ok (already scraped)
+2024-06-01 18:52:59,400 - Lamasine T. - Status: waiting
+2024-06-01 18:52:59,401 - Lamasine T. - Status: ok (already scraped)
+2024-06-01 18:52:59,401 - Jianu F. - Status: waiting
+2024-06-01 18:52:59,403 - Jianu F. - Status: ok (already scraped)
+2024-06-01 18:52:59,403 - Moeller M. - Status: waiting
+2024-06-01 18:52:59,405 - Moeller M. - Status: ok (already scraped)
+2024-06-01 18:52:59,405 - Sousa J. - Status: waiting
+2024-06-01 18:52:59,408 - Sousa J. - Status: ok (already scraped)
+2024-06-01 18:52:59,408 - Kolar Z. - Status: waiting
+2024-06-01 18:52:59,410 - Kolar Z. - Status: ok (already scraped)
+2024-06-01 18:52:59,410 - Majchrzak K. - Status: waiting
+2024-06-01 18:52:59,412 - Majchrzak K. - Status: ok (already scraped)
+2024-06-01 18:52:59,412 - Vallejo A. - Status: waiting
+2024-06-01 18:52:59,414 - Vallejo A. - Status: ok (already scraped)
+2024-06-01 18:52:59,414 - Collarini A. - Status: waiting
+2024-06-01 18:52:59,416 - Collarini A. - Status: ok (already scraped)
+2024-06-01 18:52:59,416 - Bourgue M. - Status: waiting
+2024-06-01 18:52:59,418 - Bourgue M. - Status: ok (already scraped)
+2024-06-01 18:52:59,418 - Mager G. - Status: waiting
+2024-06-01 18:52:59,420 - Mager G. - Status: ok (already scraped)
+2024-06-01 18:52:59,420 - Masur D. - Status: waiting
+2024-06-01 18:52:59,422 - Masur D. - Status: ok (already scraped)
+2024-06-01 18:52:59,422 - Vrbensky M. - Status: waiting
+2024-06-01 18:52:59,424 - Vrbensky M. - Status: ok (already scraped)
+2024-06-01 18:52:59,424 - Blockx A. - Status: waiting
+2024-06-01 18:52:59,426 - Blockx A. - Status: ok (already scraped)
+2024-06-01 18:52:59,426 - Holt B. - Status: waiting
+2024-06-01 18:52:59,428 - Holt B. - Status: ok (already scraped)
+2024-06-01 18:52:59,428 - Jung J. - Status: waiting
+2024-06-01 18:52:59,430 - Jung J. - Status: ok (already scraped)
+2024-06-01 18:52:59,430 - Andreozzi G. - Status: waiting
+2024-06-01 18:52:59,432 - Andreozzi G. - Status: ok (already scraped)
+2024-06-01 18:52:59,432 - Sakamoto P. - Status: waiting
+2024-06-01 18:52:59,433 - Sakamoto P. - Status: ok (already scraped)
+2024-06-01 18:52:59,433 - Holmgren A. - Status: waiting
+2024-06-01 18:52:59,436 - Holmgren A. - Status: ok (already scraped)
+2024-06-01 18:52:59,436 - Bicknell B. - Status: waiting
+2024-06-01 18:52:59,438 - Bicknell B. - Status: ok (already scraped)
+2024-06-01 18:52:59,438 - Berankis R. - Status: waiting
+2024-06-01 18:52:59,440 - Berankis R. - Status: ok (already scraped)
+2024-06-01 18:52:59,440 - Jubb P. - Status: waiting
+2024-06-01 18:52:59,442 - Jubb P. - Status: ok (already scraped)
+2024-06-01 18:52:59,442 - Taberner C. - Status: waiting
+2024-06-01 18:52:59,443 - Taberner C. - Status: ok (already scraped)
+2024-06-01 18:52:59,443 - Gomez F. - Status: waiting
+2024-06-01 18:52:59,446 - Gomez F. - Status: ok (already scraped)
+2024-06-01 18:52:59,446 - Fanselow S. - Status: waiting
+2024-06-01 18:52:59,448 - Fanselow S. - Status: ok (already scraped)
+2024-06-01 18:52:59,448 - Landaluce M. - Status: waiting
+2024-06-01 18:52:59,450 - Landaluce M. - Status: ok (already scraped)
+2024-06-01 18:52:59,450 - Bai Y. - Status: waiting
+2024-06-01 18:52:59,452 - Bai Y. - Status: ok (already scraped)
+2024-06-01 18:52:59,452 - Noguchi R. - Status: waiting
+2024-06-01 18:52:59,455 - Noguchi R. - Status: ok (already scraped)
+2024-06-01 18:52:59,455 - Brancaccio R. - Status: waiting
+2024-06-01 18:52:59,457 - Brancaccio R. - Status: ok (already scraped)
+2024-06-01 18:52:59,457 - Saville L. - Status: waiting
+2024-06-01 18:52:59,459 - Saville L. - Status: ok (already scraped)
+2024-06-01 18:52:59,459 - Andrade A. - Status: waiting
+2024-06-01 18:52:59,460 - Andrade A. - Status: ok (already scraped)
+2024-06-01 18:52:59,460 - Sanchis D. - Status: waiting
+2024-06-01 18:52:59,462 - Sanchis D. - Status: ok (already scraped)
+2024-06-01 18:52:59,462 - Geerts M. - Status: waiting
+2024-06-01 18:52:59,465 - Geerts M. - Status: ok (already scraped)
+2024-06-01 18:52:59,465 - Sultanov K. - Status: waiting
+2024-06-01 18:52:59,466 - Sultanov K. - Status: ok (already scraped)
+2024-06-01 18:52:59,466 - Ramanathan R. - Status: waiting
+2024-06-01 18:52:59,468 - Ramanathan R. - Status: ok (already scraped)
+2024-06-01 18:52:59,468 - Almeida M. - Status: waiting
+2024-06-01 18:52:59,470 - Almeida M. - Status: ok (already scraped)
+2024-06-01 18:52:59,470 - Casanova H. - Status: waiting
+2024-06-01 18:52:59,472 - Casanova H. - Status: ok (already scraped)
+2024-06-01 18:52:59,472 - Mena F. - Status: waiting
+2024-06-01 18:52:59,475 - Mena F. - Status: ok (already scraped)
+2024-06-01 18:52:59,475 - Moriya H. - Status: waiting
+2024-06-01 18:52:59,476 - Moriya H. - Status: ok (already scraped)
+2024-06-01 18:52:59,476 - Echargui M. - Status: waiting
+2024-06-01 18:52:59,478 - Echargui M. - Status: ok (already scraped)
+2024-06-01 18:52:59,478 - Buse I. - Status: waiting
+2024-06-01 18:52:59,480 - Buse I. - Status: ok (already scraped)
+2024-06-01 18:52:59,480 - Bellier A. - Status: waiting
+2024-06-01 18:52:59,482 - Bellier A. - Status: ok (already scraped)
+2024-06-01 18:52:59,482 - Mccabe J. - Status: waiting
+2024-06-01 18:52:59,484 - Mccabe J. - Status: ok (already scraped)
+2024-06-01 18:52:59,484 - Naw H. - Status: waiting
+2024-06-01 18:52:59,486 - Naw H. - Status: ok (already scraped)
+2024-06-01 18:52:59,486 - Bonadio R. - Status: waiting
+2024-06-01 18:52:59,487 - Bonadio R. - Status: ok (already scraped)
+2024-06-01 18:52:59,488 - Forejtek J. - Status: waiting
+2024-06-01 18:52:59,490 - Forejtek J. - Status: ok (already scraped)
+2024-06-01 18:52:59,490 - Nishikori K. - Status: waiting
+2024-06-01 18:52:59,491 - Nishikori K. - Status: ok (already scraped)
+2024-06-01 18:52:59,491 - Luz O. - Status: waiting
+2024-06-01 18:52:59,494 - Luz O. - Status: ok (already scraped)
+2024-06-01 18:52:59,494 - Lock B. - Status: waiting
+2024-06-01 18:52:59,496 - Lock B. - Status: ok (already scraped)
+2024-06-01 18:52:59,496 - Mott B. - Status: waiting
+2024-06-01 18:52:59,498 - Mott B. - Status: ok (already scraped)
+2024-06-01 18:52:59,498 - Clarke J. - Status: waiting
+2024-06-01 18:52:59,500 - Clarke J. - Status: ok (already scraped)
+2024-06-01 18:52:59,500 - Serdarusic N. - Status: waiting
+2024-06-01 18:52:59,503 - Serdarusic N. - Status: ok (already scraped)
+2024-06-01 18:52:59,503 - Elias G. - Status: waiting
+2024-06-01 18:52:59,504 - Elias G. - Status: ok (already scraped)
+2024-06-01 18:52:59,504 - Michalski D. - Status: waiting
+2024-06-01 18:52:59,506 - Michalski D. - Status: ok (already scraped)
+2024-06-01 18:52:59,506 - Cretu C. - Status: waiting
+2024-06-01 18:52:59,508 - Cretu C. - Status: ok (already scraped)
+2024-06-01 18:52:59,508 - Giannessi A. - Status: waiting
+2024-06-01 18:52:59,510 - Giannessi A. - Status: ok (already scraped)
+2024-06-01 18:52:59,510 - Oliel Y. - Status: waiting
+2024-06-01 18:52:59,513 - Oliel Y. - Status: ok (already scraped)
+2024-06-01 18:52:59,513 - Safwat M. - Status: waiting
+2024-06-01 18:52:59,514 - Safwat M. - Status: ok (already scraped)
+2024-06-01 18:52:59,515 - Delbonis F. - Status: waiting
+2024-06-01 18:52:59,517 - Delbonis F. - Status: ok (already scraped)
+2024-06-01 18:52:59,517 - Giustino L. - Status: waiting
+2024-06-01 18:52:59,519 - Giustino L. - Status: ok (already scraped)
+2024-06-01 18:52:59,519 - Kumar O. - Status: waiting
+2024-06-01 18:52:59,521 - Kumar O. - Status: ok (already scraped)
+2024-06-01 18:52:59,521 - Wessels L. - Status: waiting
+2024-06-01 18:52:59,523 - Wessels L. - Status: ok (already scraped)
+2024-06-01 18:52:59,523 - Silva D. - Status: waiting
+2024-06-01 18:52:59,525 - Silva D. - Status: ok (already scraped)
+2024-06-01 18:52:59,525 - Ionel N. - Status: waiting
+2024-06-01 18:52:59,527 - Ionel N. - Status: ok (already scraped)
+2024-06-01 18:52:59,527 - Copil M. - Status: waiting
+2024-06-01 18:52:59,529 - Copil M. - Status: ok (already scraped)
+2024-06-01 18:52:59,529 - Silva F. - Status: waiting
+2024-06-01 18:52:59,530 - Silva F. - Status: ok (already scraped)
+2024-06-01 18:52:59,530 - Erel Y. - Status: waiting
+2024-06-01 18:52:59,533 - Erel Y. - Status: ok (already scraped)
+2024-06-01 18:52:59,533 - Sakellaridis S. - Status: waiting
+2024-06-01 18:52:59,535 - Sakellaridis S. - Status: ok (already scraped)
+2024-06-01 18:52:59,535 - Valkusz M. - Status: waiting
+2024-06-01 18:52:59,537 - Valkusz M. - Status: ok (already scraped)
+2024-06-01 18:52:59,537 - Cui J. - Status: waiting
+2024-06-01 18:52:59,539 - Cui J. - Status: ok (already scraped)
+2024-06-01 18:52:59,539 - Celikbilek A. - Status: waiting
+2024-06-01 18:52:59,541 - Celikbilek A. - Status: ok (already scraped)
+2024-06-01 18:52:59,541 - Busta P. - Status: waiting
+2024-06-01 18:52:59,543 - Busta P. - Status: ok (already scraped)
+2024-06-01 18:52:59,543 - Basilashvili N. - Status: waiting
+2024-06-01 18:52:59,545 - Basilashvili N. - Status: ok (already scraped)
+2024-06-01 18:52:59,545 - Cilic M. - Status: waiting
+2024-06-01 18:52:59,547 - Cilic M. - Status: ok (already scraped)
+2024-06-01 18:52:59,547 - Krajinovic F. - Status: waiting
+2024-06-01 18:52:59,550 - Krajinovic F. - Status: ok (already scraped)
+2024-06-01 18:52:59,550 - Millman J. - Status: waiting
+2024-06-01 18:52:59,552 - Millman J. - Status: ok (already scraped)
+2024-06-01 18:52:59,552 - Otte O. - Status: waiting
+2024-06-01 18:52:59,554 - Otte O. - Status: ok (already scraped)
+2024-06-01 18:52:59,554 - Laaksonen H. - Status: waiting
+2024-06-01 18:52:59,556 - Laaksonen H. - Status: ok (already scraped)
+2024-06-01 18:52:59,556 - Anderson K. - Status: waiting
+2024-06-01 18:52:59,558 - Anderson K. - Status: ok (already scraped)
+2024-06-01 18:52:59,558 - Cecchinato M. - Status: waiting
+2024-06-01 18:52:59,560 - Cecchinato M. - Status: ok (already scraped)
+2024-06-01 18:52:59,560 - Cuevas P. - Status: waiting
+2024-06-01 18:52:59,561 - Cuevas P. - Status: ok (already scraped)
+2024-06-01 18:52:59,561 - Gombos N. - Status: waiting
+2024-06-01 18:52:59,564 - Gombos N. - Status: ok (already scraped)
+2024-06-01 18:52:59,564 - Lopez F. - Status: waiting
+2024-06-01 18:52:59,566 - Lopez F. - Status: ok (already scraped)
+2024-06-01 18:52:59,566 - Kozlov S. - Status: waiting
+2024-06-01 18:52:59,568 - Kozlov S. - Status: ok (already scraped)
+2024-06-01 18:52:59,568 - Verdasco F. - Status: waiting
+2024-06-01 18:52:59,570 - Verdasco F. - Status: ok (already scraped)
+2024-06-01 18:52:59,570 - Moraing M. - Status: waiting
+2024-06-01 18:52:59,572 - Moraing M. - Status: ok (already scraped)
+2024-06-01 18:52:59,572 - Milojevic N. - Status: waiting
+2024-06-01 18:52:59,573 - Milojevic N. - Status: ok (already scraped)
+2024-06-01 18:52:59,574 - Londero J. - Status: waiting
+2024-06-01 18:52:59,575 - Londero J. - Status: ok (already scraped)
+2024-06-01 18:52:59,575 - Pospisil V. - Status: waiting
+2024-06-01 18:52:59,578 - Pospisil V. - Status: ok (already scraped)
+2024-06-01 18:52:59,578 - Escobedo E. - Status: waiting
+2024-06-01 18:52:59,580 - Escobedo E. - Status: ok (already scraped)
+2024-06-01 18:52:59,581 - Gomez E. - Status: waiting
+2024-06-01 18:52:59,582 - Gomez E. - Status: ok (already scraped)
+2024-06-01 18:52:59,582 - Caruso S. - Status: waiting
+2024-06-01 18:52:59,585 - Caruso S. - Status: ok (already scraped)
+2024-06-01 18:52:59,585 - Fratangelo B. - Status: waiting
+2024-06-01 18:52:59,587 - Fratangelo B. - Status: ok (already scraped)
+2024-06-01 18:52:59,587 - Rola B. - Status: waiting
+2024-06-01 18:52:59,589 - Rola B. - Status: ok (already scraped)
+2024-06-01 18:52:59,589 - Moroni G. - Status: waiting
+2024-06-01 18:52:59,591 - Moroni G. - Status: ok (already scraped)
+2024-06-01 18:52:59,591 - Gaio F. - Status: waiting
+2024-06-01 18:52:59,593 - Gaio F. - Status: ok (already scraped)
+2024-06-01 18:52:59,593 - Ilkel C. - Status: waiting
+2024-06-01 18:52:59,595 - Ilkel C. - Status: ok (already scraped)
+2024-06-01 18:52:59,595 - Kicker N. - Status: waiting
+2024-06-01 18:52:59,597 - Kicker N. - Status: ok (already scraped)
+2024-06-01 18:52:59,597 - Zuk K. - Status: waiting
+2024-06-01 18:52:59,599 - Zuk K. - Status: ok (already scraped)
+2024-06-01 18:52:59,599 - Hoang A. - Status: waiting
+2024-06-01 18:52:59,601 - Hoang A. - Status: ok (already scraped)
+2024-06-01 18:52:59,601 - Basic M. - Status: waiting
+2024-06-01 18:52:59,603 - Basic M. - Status: ok (already scraped)
+2024-06-01 18:52:59,603 - Kuznetsov A. - Status: waiting
+2024-06-01 18:52:59,606 - Kuznetsov A. - Status: ok (already scraped)
+2024-06-01 18:52:59,606 - Schnur B. - Status: waiting
+2024-06-01 18:52:59,608 - Schnur B. - Status: ok (already scraped)
+2024-06-01 18:52:59,608 - Arnaboldi A. - Status: waiting
+2024-06-01 18:52:59,610 - Arnaboldi A. - Status: ok (already scraped)
+2024-06-01 18:52:59,610 - Balazs A. - Status: waiting
+2024-06-01 18:52:59,611 - Balazs A. - Status: ok (already scraped)
+2024-06-01 18:52:59,612 - Kuhn N. - Status: waiting
+2024-06-01 18:52:59,613 - Kuhn N. - Status: ok (already scraped)
+2024-06-01 18:52:59,613 - Menezes J. - Status: waiting
+2024-06-01 18:52:59,616 - Menezes J. - Status: ok (already scraped)
+2024-06-01 18:52:59,616 - Edmund K. - Status: waiting
+2024-06-01 18:52:59,618 - Edmund K. - Status: ok (already scraped)
+2024-06-01 18:52:59,618 - Lama G. - Status: waiting
+2024-06-01 18:52:59,620 - Lama G. - Status: ok (already scraped)
+2024-06-01 18:52:59,620 - Sousa P. - Status: waiting
+2024-06-01 18:52:59,621 - Sousa P. - Status: ok (already scraped)
+2024-06-01 18:52:59,622 - Melzer G. - Status: waiting
+2024-06-01 18:52:59,623 - Melzer G. - Status: ok (already scraped)
+2024-06-01 18:52:59,623 - Rosol L. - Status: waiting
+2024-06-01 18:52:59,626 - Rosol L. - Status: ok (already scraped)
+2024-06-01 18:52:59,627 - Uchida K. - Status: waiting
+2024-06-01 18:52:59,628 - Uchida K. - Status: ok (already scraped)
+2024-06-01 18:52:59,628 - Karlovskiy E. - Status: waiting
+2024-06-01 18:52:59,630 - Karlovskiy E. - Status: ok (already scraped)
+2024-06-01 18:52:59,630 - Lenz J. - Status: waiting
+2024-06-01 18:53:26,557 - Lenz J. - Status: error ('NoneType' object has no attribute 'text')
+2024-06-01 18:53:30,604 - Furness E. - Status: waiting
+2024-06-01 18:54:01,962 - Furness E. - Status: ok (written)
+2024-06-01 18:54:01,962 - Istomin D. - Status: waiting
+2024-06-01 18:54:29,643 - Istomin D. - Status: error ('NoneType' object has no attribute 'text')
+2024-06-01 18:54:33,701 - Marcora R. - Status: waiting
+2024-06-01 18:55:01,402 - Marcora R. - Status: error ('NoneType' object has no attribute 'text')
+2024-06-01 18:55:05,466 - Domingues J. - Status: waiting
+2024-06-01 18:55:37,960 - Domingues J. - Status: ok (written)
+2024-06-01 18:55:37,960 - Diez S. - Status: waiting
+2024-06-01 18:56:25,697 - Diez S. - Status: ok (written)
+2024-06-01 18:56:25,697 - Kamke T. - Status: waiting
+2024-06-01 18:56:52,323 - Kamke T. - Status: error ('NoneType' object has no attribute 'text')
+2024-06-01 18:56:56,408 - Nikles J. - Status: waiting
+2024-06-01 18:57:30,348 - Nikles J. - Status: ok (written)
+2024-06-01 18:57:30,348 - Varona N. - Status: waiting
+2024-06-01 18:58:01,661 - Varona N. - Status: ok (written)
+2024-06-01 18:58:01,661 - Bemelmans R. - Status: waiting
+2024-06-01 18:58:31,175 - Bemelmans R. - Status: error ('NoneType' object has no attribute 'text')
+2024-06-01 18:58:35,227 - Lobato E. - Status: waiting
+2024-06-01 18:59:02,300 - Lobato E. - Status: error ('NoneType' object has no attribute 'text')
